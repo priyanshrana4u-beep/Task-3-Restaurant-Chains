@@ -51,7 +51,6 @@ The analysis shows that restaurant chains with higher customer ratings generally
 - `restaurant_chains_analysis.ipynb`
 - `restaurant_chains_dataset.csv`
 - `README.md`
-- `requirements.txt`
 
 ## 👨‍💻 Author
 **Priyansh Rana**
