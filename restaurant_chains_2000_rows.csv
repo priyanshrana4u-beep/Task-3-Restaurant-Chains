@@ -1,0 +1,2001 @@
+name,rate,votes,location,cuisines,approx_cost(for two people),online_order,book_table
+McDonald's,3.4,1150,Whitefield,Pizza,1000,No,No
+Cafe Coffee Day,4.1,1790,JP Nagar,Pizza,800,No,Yes
+Local Restaurant 2,3.7,2314,Indiranagar,Italian,400,Yes,No
+Meghana Foods,3.3,1682,Indiranagar,American,900,Yes,No
+Burger King,4.2,1207,Banashankari,Italian,1200,Yes,No
+Truffles,4.1,1243,Banashankari,Fast Food,1000,Yes,No
+Subway,4.0,901,BTM,Multi Cuisine,1200,No,Yes
+Meghana Foods,4.8,103,BTM,Cafe,800,Yes,Yes
+Pizza Hut,4.4,1887,Koramangala,Multi Cuisine,600,Yes,No
+Domino's Pizza,4.1,1153,Koramangala,Cafe,700,Yes,No
+Truffles,4.3,654,BTM,Fast Food,700,Yes,No
+Pizza Hut,4.0,430,Banashankari,Chinese,1400,No,No
+Burger King,4.3,2398,Whitefield,Pizza,500,Yes,No
+McDonald's,3.6,637,Jayanagar,North Indian,400,No,No
+McDonald's,3.8,142,MG Road,North Indian,600,No,No
+Cafe Coffee Day,3.3,1327,Jayanagar,Cafe,500,Yes,No
+Local Restaurant 16,4.9,1066,Whitefield,Cafe,1400,Yes,Yes
+Local Restaurant 17,3.8,1024,Marathahalli,American,700,No,No
+Subway,4.1,1025,JP Nagar,North Indian,600,No,Yes
+Domino's Pizza,4.4,559,MG Road,Italian,400,No,No
+Meghana Foods,4.3,1273,JP Nagar,Biryani,600,No,No
+Local Restaurant 21,3.9,2421,Koramangala,North Indian,500,Yes,Yes
+Domino's Pizza,4.1,1672,Whitefield,Chinese,1000,No,Yes
+Pizza Hut,4.1,98,Whitefield,Multi Cuisine,800,Yes,No
+Pizza Hut,3.4,1609,Banashankari,Chinese,1000,Yes,Yes
+Local Restaurant 25,4.0,1330,Marathahalli,Cafe,700,No,No
+Local Restaurant 26,4.7,950,MG Road,Multi Cuisine,400,No,Yes
+Meghana Foods,4.2,161,BTM,Biryani,800,Yes,No
+Pizza Hut,3.5,1712,Banashankari,Cafe,600,No,Yes
+Local Restaurant 29,4.7,1923,Indiranagar,Pizza,800,Yes,Yes
+McDonald's,4.2,964,Koramangala,American,500,Yes,No
+Domino's Pizza,4.1,2143,JP Nagar,Fast Food,900,No,No
+Empire Restaurant,4.6,2424,Marathahalli,South Indian,1400,No,No
+Local Restaurant 33,3.6,1349,BTM,Chinese,600,Yes,No
+McDonald's,3.5,2019,Koramangala,Cafe,800,Yes,Yes
+Cafe Coffee Day,3.8,2253,JP Nagar,Italian,1000,No,Yes
+KFC,3.2,166,Jayanagar,Italian,1400,No,No
+Meghana Foods,3.9,1858,BTM,American,700,No,Yes
+Truffles,3.4,1490,JP Nagar,South Indian,1200,No,No
+Local Restaurant 39,4.1,1330,Indiranagar,Pizza,1000,Yes,No
+Truffles,4.3,767,Banashankari,Biryani,800,No,Yes
+Local Restaurant 41,4.6,154,Banashankari,Cafe,900,Yes,Yes
+Truffles,4.0,1518,Jayanagar,South Indian,500,Yes,No
+Domino's Pizza,4.3,655,Koramangala,Cafe,500,Yes,Yes
+Cafe Coffee Day,3.6,1926,BTM,Cafe,1200,No,Yes
+Burger King,3.7,1656,JP Nagar,Multi Cuisine,500,Yes,Yes
+Domino's Pizza,3.7,1832,JP Nagar,Cafe,700,No,Yes
+Subway,4.5,2250,Banashankari,American,1200,Yes,No
+Burger King,4.6,620,Whitefield,Pizza,700,No,Yes
+Local Restaurant 49,4.8,533,MG Road,Cafe,700,Yes,No
+Meghana Foods,4.2,556,Marathahalli,Biryani,1000,No,Yes
+KFC,3.7,1082,Banashankari,Fast Food,400,No,No
+Meghana Foods,3.4,2385,HSR,Multi Cuisine,1400,Yes,Yes
+Cafe Coffee Day,4.8,669,HSR,Fast Food,900,No,No
+Empire Restaurant,4.0,2172,BTM,American,700,Yes,Yes
+KFC,4.7,1666,Marathahalli,South Indian,700,No,Yes
+Local Restaurant 56,3.8,1157,Jayanagar,Biryani,500,Yes,Yes
+Meghana Foods,4.1,1398,Marathahalli,Cafe,600,No,Yes
+KFC,4.1,354,MG Road,Italian,600,No,No
+KFC,4.2,1954,Jayanagar,Multi Cuisine,1200,No,No
+Cafe Coffee Day,3.7,423,Banashankari,Pizza,800,Yes,Yes
+Pizza Hut,4.3,876,BTM,Pizza,1000,Yes,Yes
+KFC,4.9,129,MG Road,American,800,No,Yes
+KFC,3.6,860,JP Nagar,Italian,900,No,No
+McDonald's,3.7,1318,Whitefield,Italian,400,Yes,Yes
+KFC,4.8,164,Jayanagar,Chinese,1000,Yes,Yes
+Domino's Pizza,4.7,2057,Banashankari,American,900,No,Yes
+Domino's Pizza,3.3,2259,Jayanagar,Multi Cuisine,400,No,Yes
+Domino's Pizza,4.5,1401,HSR,Multi Cuisine,500,No,Yes
+Local Restaurant 69,3.3,995,BTM,Fast Food,400,Yes,Yes
+Cafe Coffee Day,4.2,1093,Indiranagar,Pizza,900,Yes,No
+Meghana Foods,4.5,587,Marathahalli,Biryani,1200,Yes,Yes
+Subway,4.5,1364,BTM,Cafe,1000,Yes,No
+McDonald's,3.9,984,JP Nagar,Pizza,400,Yes,No
+Local Restaurant 74,4.5,611,BTM,Cafe,900,Yes,No
+Truffles,4.0,787,MG Road,Biryani,400,Yes,Yes
+Domino's Pizza,4.4,509,Whitefield,Fast Food,1000,No,Yes
+Meghana Foods,4.4,521,MG Road,Pizza,700,Yes,Yes
+Subway,4.7,1714,HSR,Multi Cuisine,1200,No,No
+Local Restaurant 79,4.5,961,Indiranagar,Chinese,700,Yes,Yes
+Local Restaurant 80,3.8,1983,Whitefield,Biryani,500,No,Yes
+McDonald's,4.7,90,BTM,American,1200,No,Yes
+Domino's Pizza,3.9,1230,HSR,American,1400,Yes,Yes
+Local Restaurant 83,4.1,789,Jayanagar,North Indian,800,No,No
+Burger King,4.3,2113,Indiranagar,Multi Cuisine,900,Yes,Yes
+Local Restaurant 85,3.8,1299,Banashankari,Fast Food,1200,No,Yes
+Cafe Coffee Day,3.9,1226,BTM,Multi Cuisine,700,Yes,Yes
+Cafe Coffee Day,3.3,2170,HSR,Cafe,500,Yes,No
+Cafe Coffee Day,3.3,1715,BTM,Biryani,400,Yes,No
+Subway,3.8,1748,BTM,Cafe,1200,No,No
+Local Restaurant 90,3.9,187,Koramangala,American,400,Yes,Yes
+Local Restaurant 91,3.5,1407,Indiranagar,North Indian,400,Yes,No
+Empire Restaurant,3.6,2198,BTM,Italian,700,Yes,No
+Cafe Coffee Day,3.4,880,Koramangala,Multi Cuisine,1000,No,Yes
+Meghana Foods,3.4,783,BTM,Fast Food,400,Yes,Yes
+McDonald's,4.3,166,Marathahalli,American,1200,No,Yes
+Truffles,4.3,721,JP Nagar,Chinese,400,No,No
+McDonald's,4.7,254,Jayanagar,Biryani,1200,No,No
+Local Restaurant 98,4.5,1814,JP Nagar,Chinese,800,No,Yes
+Meghana Foods,4.4,1031,Banashankari,Italian,400,Yes,Yes
+Cafe Coffee Day,4.0,1643,BTM,Pizza,800,Yes,No
+Domino's Pizza,4.3,1465,Marathahalli,Biryani,1000,No,Yes
+McDonald's,3.9,403,HSR,Pizza,700,No,Yes
+Local Restaurant 103,3.7,1452,Banashankari,Chinese,700,No,No
+Burger King,4.3,1513,Indiranagar,Pizza,700,Yes,No
+Local Restaurant 105,3.5,1580,Whitefield,Fast Food,600,Yes,Yes
+Burger King,4.2,1352,BTM,Italian,1000,Yes,No
+Truffles,4.4,113,Jayanagar,Fast Food,400,No,No
+Empire Restaurant,4.2,1422,Koramangala,Fast Food,1200,No,Yes
+Cafe Coffee Day,4.2,1773,JP Nagar,Multi Cuisine,700,No,Yes
+Cafe Coffee Day,3.7,1392,Marathahalli,Pizza,600,No,Yes
+KFC,4.8,2332,JP Nagar,Multi Cuisine,600,Yes,No
+Truffles,3.2,2285,MG Road,Pizza,500,No,Yes
+Truffles,3.9,2494,HSR,South Indian,900,No,Yes
+Local Restaurant 114,4.9,2419,Banashankari,Cafe,600,Yes,Yes
+Cafe Coffee Day,4.1,2194,BTM,Chinese,800,Yes,Yes
+Meghana Foods,3.4,1560,HSR,Multi Cuisine,1200,Yes,Yes
+Truffles,4.2,859,MG Road,South Indian,1000,Yes,No
+Meghana Foods,4.6,2345,MG Road,North Indian,900,Yes,No
+Empire Restaurant,4.3,1358,Jayanagar,American,400,No,No
+Pizza Hut,4.4,1804,BTM,Italian,700,No,Yes
+Empire Restaurant,4.3,1786,Whitefield,American,700,No,No
+McDonald's,3.6,2012,Banashankari,South Indian,600,No,Yes
+Subway,3.9,1966,Koramangala,South Indian,700,No,No
+Empire Restaurant,3.4,674,Indiranagar,Fast Food,700,Yes,Yes
+Empire Restaurant,3.7,899,Koramangala,Pizza,1400,No,No
+Pizza Hut,4.5,2074,JP Nagar,Chinese,700,No,No
+Domino's Pizza,4.9,1739,Koramangala,American,400,Yes,Yes
+Local Restaurant 128,3.6,670,Indiranagar,North Indian,1000,No,Yes
+Local Restaurant 129,4.4,1302,Jayanagar,Pizza,800,No,Yes
+Local Restaurant 130,4.1,1431,Indiranagar,Chinese,600,No,No
+Meghana Foods,3.8,694,MG Road,Italian,600,Yes,Yes
+Cafe Coffee Day,4.1,172,MG Road,American,1200,Yes,Yes
+Meghana Foods,3.5,2457,HSR,North Indian,700,No,Yes
+Local Restaurant 134,3.3,2142,Indiranagar,Chinese,700,Yes,Yes
+Meghana Foods,3.9,745,HSR,Fast Food,500,No,No
+Subway,4.4,839,Banashankari,Cafe,1200,No,Yes
+Subway,4.0,80,HSR,Pizza,800,Yes,Yes
+Burger King,4.3,1063,Indiranagar,Biryani,900,No,No
+Empire Restaurant,4.6,2125,Indiranagar,Pizza,700,No,No
+Local Restaurant 140,4.7,1897,MG Road,Biryani,1400,Yes,No
+Local Restaurant 141,4.8,915,JP Nagar,Cafe,500,No,Yes
+Local Restaurant 142,3.7,1654,Whitefield,Cafe,1200,No,Yes
+Domino's Pizza,4.1,197,Indiranagar,Cafe,700,No,Yes
+Local Restaurant 144,4.9,414,HSR,Pizza,700,Yes,No
+KFC,3.3,2355,BTM,American,1200,No,No
+Empire Restaurant,4.7,2336,BTM,Cafe,900,No,No
+Local Restaurant 147,3.6,1383,JP Nagar,Biryani,800,No,Yes
+Cafe Coffee Day,3.4,2088,HSR,American,700,Yes,No
+Cafe Coffee Day,4.5,1103,Jayanagar,Chinese,600,No,Yes
+Pizza Hut,4.3,647,MG Road,North Indian,1400,No,Yes
+Domino's Pizza,3.8,265,Marathahalli,Multi Cuisine,600,No,No
+Burger King,3.3,1014,HSR,Pizza,500,No,No
+Local Restaurant 153,3.4,536,MG Road,Chinese,700,Yes,No
+McDonald's,3.4,1928,Marathahalli,Multi Cuisine,800,No,Yes
+Burger King,3.6,1580,Jayanagar,South Indian,1000,Yes,Yes
+Local Restaurant 156,4.3,228,HSR,Multi Cuisine,400,No,Yes
+Local Restaurant 157,4.6,1356,HSR,American,400,No,No
+KFC,3.3,1920,Jayanagar,Biryani,700,No,No
+Cafe Coffee Day,4.6,2310,Koramangala,Biryani,900,Yes,Yes
+Burger King,3.9,1611,Jayanagar,Chinese,700,Yes,Yes
+Meghana Foods,4.5,451,Jayanagar,South Indian,400,No,Yes
+Empire Restaurant,4.6,1646,Whitefield,Fast Food,600,Yes,Yes
+Truffles,4.3,2492,JP Nagar,Cafe,1400,No,No
+Meghana Foods,3.6,869,Marathahalli,Cafe,500,Yes,Yes
+Local Restaurant 165,3.3,1945,MG Road,Italian,1400,No,No
+McDonald's,4.9,2180,Jayanagar,Multi Cuisine,500,Yes,Yes
+KFC,4.5,1272,Koramangala,South Indian,500,No,Yes
+Burger King,3.2,1271,Indiranagar,South Indian,1400,No,No
+Subway,3.8,408,Whitefield,Fast Food,800,No,Yes
+Domino's Pizza,3.5,436,Whitefield,American,500,Yes,Yes
+Burger King,3.7,1180,BTM,Biryani,600,No,Yes
+Meghana Foods,4.3,2305,Jayanagar,Pizza,500,Yes,No
+Subway,4.3,1290,Indiranagar,Italian,800,Yes,Yes
+Local Restaurant 174,3.5,424,Koramangala,South Indian,400,Yes,No
+Truffles,4.2,2366,JP Nagar,North Indian,1400,Yes,No
+Cafe Coffee Day,4.7,1407,Banashankari,South Indian,1200,No,No
+Local Restaurant 177,4.5,1017,BTM,Chinese,600,Yes,Yes
+Pizza Hut,4.3,1899,Koramangala,American,900,Yes,No
+Empire Restaurant,4.4,1705,Whitefield,Pizza,1200,No,Yes
+Subway,4.7,1460,Indiranagar,Fast Food,900,No,No
+Domino's Pizza,4.7,1698,JP Nagar,Biryani,500,No,Yes
+KFC,3.3,588,BTM,American,800,No,Yes
+KFC,3.8,2068,Koramangala,Chinese,500,Yes,Yes
+Local Restaurant 184,3.2,417,JP Nagar,American,600,Yes,Yes
+KFC,4.6,1263,Indiranagar,American,500,Yes,No
+McDonald's,4.6,955,MG Road,Multi Cuisine,1200,Yes,Yes
+Subway,4.7,602,BTM,Chinese,1200,Yes,Yes
+Empire Restaurant,4.1,1231,Indiranagar,Chinese,700,No,Yes
+Subway,3.7,2028,Whitefield,Fast Food,500,Yes,Yes
+KFC,4.2,780,Whitefield,Multi Cuisine,700,No,Yes
+Pizza Hut,4.9,2231,MG Road,Biryani,1200,No,No
+Local Restaurant 192,3.6,2456,JP Nagar,Pizza,800,Yes,Yes
+KFC,3.9,1566,JP Nagar,Chinese,600,Yes,Yes
+Local Restaurant 194,3.6,2061,Whitefield,Biryani,1400,Yes,No
+Truffles,4.1,1317,Koramangala,Fast Food,1400,No,Yes
+KFC,3.7,1907,HSR,Chinese,700,No,No
+KFC,3.3,814,Marathahalli,American,1400,Yes,No
+Cafe Coffee Day,4.6,683,Whitefield,Cafe,600,Yes,Yes
+Empire Restaurant,3.3,600,Banashankari,Cafe,700,No,Yes
+KFC,4.8,2156,Whitefield,Fast Food,700,Yes,No
+Burger King,3.8,1787,Whitefield,South Indian,800,Yes,No
+Pizza Hut,3.9,919,BTM,North Indian,1200,Yes,Yes
+Local Restaurant 203,3.9,238,Indiranagar,North Indian,500,Yes,Yes
+Burger King,3.3,1275,HSR,North Indian,500,Yes,No
+Meghana Foods,4.1,771,HSR,Cafe,1400,Yes,Yes
+Local Restaurant 206,3.7,940,HSR,South Indian,1400,No,Yes
+McDonald's,3.9,394,Whitefield,South Indian,1000,No,No
+Domino's Pizza,4.6,2367,Banashankari,Multi Cuisine,600,Yes,No
+Pizza Hut,4.6,982,Indiranagar,Chinese,500,Yes,No
+Meghana Foods,3.8,1139,Indiranagar,Cafe,800,Yes,Yes
+Truffles,4.7,306,JP Nagar,Fast Food,400,Yes,Yes
+Truffles,4.4,1166,Jayanagar,Italian,500,Yes,Yes
+Burger King,4.2,1825,HSR,South Indian,600,Yes,Yes
+Cafe Coffee Day,3.5,1135,Jayanagar,Italian,700,Yes,Yes
+Truffles,3.5,1214,Jayanagar,Chinese,600,No,No
+Cafe Coffee Day,3.7,1803,Banashankari,Italian,600,No,No
+McDonald's,4.8,196,JP Nagar,Multi Cuisine,900,No,No
+KFC,3.4,1712,Koramangala,Biryani,600,No,Yes
+Local Restaurant 219,3.4,2272,MG Road,Italian,600,No,Yes
+Subway,4.1,2290,MG Road,North Indian,700,No,Yes
+Local Restaurant 221,3.4,2455,Jayanagar,Multi Cuisine,500,No,Yes
+Meghana Foods,4.7,1452,Koramangala,Fast Food,700,No,Yes
+Meghana Foods,3.2,358,Jayanagar,Pizza,1200,No,Yes
+KFC,3.6,1431,Banashankari,Italian,1000,Yes,No
+Burger King,4.3,346,BTM,Chinese,1000,No,No
+Local Restaurant 226,4.8,1025,Indiranagar,Fast Food,800,Yes,No
+KFC,4.2,387,Whitefield,Cafe,1200,Yes,Yes
+Cafe Coffee Day,4.5,2321,Jayanagar,American,800,No,Yes
+Domino's Pizza,3.3,1234,Jayanagar,Fast Food,1000,Yes,No
+Burger King,4.3,1350,MG Road,North Indian,400,Yes,Yes
+Domino's Pizza,3.4,655,Jayanagar,Pizza,900,Yes,No
+Local Restaurant 232,4.4,297,Indiranagar,Pizza,900,Yes,No
+Burger King,4.8,702,HSR,Multi Cuisine,800,Yes,Yes
+Meghana Foods,3.6,352,Banashankari,Cafe,1200,Yes,Yes
+Meghana Foods,4.5,2079,HSR,Chinese,800,Yes,Yes
+KFC,4.7,959,MG Road,Multi Cuisine,800,No,No
+Pizza Hut,4.6,100,MG Road,North Indian,600,Yes,Yes
+Domino's Pizza,3.8,480,HSR,American,1200,No,Yes
+Pizza Hut,3.8,1234,Jayanagar,Cafe,600,Yes,No
+Pizza Hut,3.3,1281,Indiranagar,North Indian,900,Yes,No
+Cafe Coffee Day,4.6,2032,HSR,South Indian,1200,Yes,Yes
+KFC,4.7,1611,Marathahalli,Multi Cuisine,800,Yes,No
+McDonald's,4.3,1952,Koramangala,Cafe,800,No,Yes
+McDonald's,4.6,182,Indiranagar,Multi Cuisine,700,No,Yes
+Local Restaurant 245,4.2,2474,Whitefield,Cafe,400,Yes,Yes
+Cafe Coffee Day,3.3,914,Koramangala,Fast Food,1200,No,Yes
+Burger King,3.9,2369,Koramangala,North Indian,600,Yes,No
+Pizza Hut,4.0,1634,Whitefield,Multi Cuisine,1200,Yes,No
+Local Restaurant 249,4.0,1711,Koramangala,Italian,1400,No,Yes
+Truffles,3.3,1379,HSR,North Indian,1000,No,Yes
+McDonald's,3.4,932,Indiranagar,North Indian,600,No,Yes
+Domino's Pizza,3.5,346,Indiranagar,Chinese,1000,No,Yes
+Pizza Hut,4.2,202,Whitefield,American,600,Yes,No
+Cafe Coffee Day,3.3,2187,JP Nagar,Italian,1000,Yes,No
+Burger King,3.6,1221,BTM,Pizza,500,Yes,Yes
+Local Restaurant 256,4.3,970,Koramangala,Pizza,1400,No,Yes
+Pizza Hut,4.0,2415,Koramangala,Biryani,800,No,No
+Cafe Coffee Day,4.4,1552,HSR,Biryani,700,No,No
+Local Restaurant 259,3.7,1096,BTM,North Indian,900,Yes,No
+Truffles,3.5,289,Banashankari,Cafe,500,No,No
+McDonald's,3.7,1836,Whitefield,American,400,Yes,No
+McDonald's,3.8,761,Banashankari,Fast Food,1400,No,Yes
+Meghana Foods,4.3,893,MG Road,Chinese,700,No,Yes
+Burger King,3.6,1942,Jayanagar,Pizza,400,No,Yes
+Local Restaurant 265,3.4,1042,Banashankari,Italian,800,No,No
+KFC,3.3,2033,HSR,Biryani,600,Yes,No
+Pizza Hut,4.0,1265,Jayanagar,North Indian,1200,No,Yes
+Cafe Coffee Day,4.3,2485,JP Nagar,Biryani,500,Yes,No
+Domino's Pizza,4.8,252,BTM,Biryani,500,Yes,No
+Local Restaurant 270,4.5,1331,Marathahalli,Italian,1000,Yes,Yes
+McDonald's,4.8,2161,Koramangala,Multi Cuisine,500,No,Yes
+Pizza Hut,4.3,2319,Marathahalli,Fast Food,600,Yes,No
+Pizza Hut,4.6,1229,BTM,Fast Food,1000,No,Yes
+Empire Restaurant,4.4,1518,Banashankari,Pizza,600,Yes,Yes
+Empire Restaurant,4.0,549,Whitefield,North Indian,700,No,Yes
+Truffles,4.8,1618,HSR,Fast Food,1000,No,Yes
+Local Restaurant 277,4.1,1525,MG Road,South Indian,1200,Yes,Yes
+Burger King,3.9,2421,Banashankari,Fast Food,400,No,Yes
+KFC,4.3,1053,Marathahalli,Chinese,400,No,No
+KFC,4.8,1873,Jayanagar,North Indian,600,Yes,Yes
+Local Restaurant 281,4.1,210,Banashankari,Multi Cuisine,600,Yes,No
+Local Restaurant 282,3.5,1798,Whitefield,Multi Cuisine,1400,No,No
+Empire Restaurant,4.4,1373,MG Road,Pizza,600,No,Yes
+Burger King,4.6,2040,Whitefield,Fast Food,500,No,No
+Pizza Hut,4.3,1244,BTM,Pizza,500,No,No
+KFC,4.0,978,HSR,South Indian,1200,Yes,No
+Meghana Foods,4.2,365,BTM,Fast Food,500,No,No
+Meghana Foods,4.3,1619,Marathahalli,Biryani,600,Yes,No
+Burger King,3.6,1566,Marathahalli,Fast Food,600,No,No
+KFC,3.9,229,Indiranagar,Italian,400,Yes,Yes
+KFC,4.4,2311,Banashankari,American,1000,No,No
+Local Restaurant 292,4.4,215,Jayanagar,North Indian,500,Yes,Yes
+Truffles,3.6,2495,Jayanagar,Biryani,700,Yes,Yes
+Pizza Hut,3.5,1849,Marathahalli,Italian,900,No,Yes
+McDonald's,4.5,281,HSR,Fast Food,500,No,Yes
+Local Restaurant 296,4.5,1489,MG Road,Chinese,800,Yes,Yes
+Meghana Foods,3.8,453,HSR,Biryani,400,No,Yes
+Domino's Pizza,4.6,1742,Koramangala,Fast Food,1200,No,Yes
+Truffles,4.1,878,MG Road,Italian,900,Yes,Yes
+Cafe Coffee Day,4.7,1443,Koramangala,American,700,No,No
+Local Restaurant 301,3.7,702,Jayanagar,South Indian,700,Yes,No
+McDonald's,4.5,2397,MG Road,Biryani,800,Yes,No
+Meghana Foods,3.3,2371,Jayanagar,Fast Food,600,Yes,Yes
+Pizza Hut,4.4,676,MG Road,Cafe,600,No,No
+Local Restaurant 305,3.9,1988,MG Road,Multi Cuisine,500,Yes,No
+Local Restaurant 306,3.8,906,Koramangala,North Indian,700,Yes,Yes
+Subway,3.4,1177,Indiranagar,Chinese,700,Yes,Yes
+Burger King,4.7,1165,Whitefield,Chinese,1400,Yes,No
+Burger King,4.2,1006,Indiranagar,Multi Cuisine,1000,Yes,Yes
+Meghana Foods,3.5,429,JP Nagar,Biryani,800,Yes,Yes
+Domino's Pizza,4.0,1017,Koramangala,Biryani,500,Yes,No
+Cafe Coffee Day,3.6,2062,MG Road,Chinese,700,No,Yes
+Truffles,3.8,845,Koramangala,Cafe,900,Yes,Yes
+KFC,4.6,871,Banashankari,Cafe,500,Yes,Yes
+Pizza Hut,3.2,1597,Jayanagar,North Indian,1000,Yes,No
+Local Restaurant 316,4.8,1101,Banashankari,Chinese,600,No,Yes
+Cafe Coffee Day,3.4,1814,Jayanagar,Cafe,500,No,No
+Subway,4.8,1132,Koramangala,Chinese,1000,Yes,Yes
+Local Restaurant 319,3.4,1639,Indiranagar,Italian,1400,Yes,No
+Subway,3.3,1338,BTM,Biryani,700,No,No
+KFC,4.6,1938,JP Nagar,Italian,800,No,No
+Local Restaurant 322,3.5,1117,Koramangala,Biryani,600,Yes,Yes
+Pizza Hut,4.1,1028,Jayanagar,Cafe,900,Yes,No
+KFC,3.6,1916,Jayanagar,Biryani,600,Yes,Yes
+Local Restaurant 325,4.4,1558,BTM,South Indian,1400,Yes,Yes
+Empire Restaurant,4.7,65,Marathahalli,South Indian,600,Yes,No
+Truffles,4.8,2332,Banashankari,Pizza,1400,No,Yes
+Meghana Foods,4.0,1755,HSR,Pizza,1400,No,No
+Cafe Coffee Day,4.1,998,Marathahalli,Cafe,500,No,No
+Pizza Hut,4.2,833,HSR,Fast Food,700,No,No
+Pizza Hut,4.4,701,BTM,Pizza,1400,Yes,Yes
+Truffles,3.7,238,HSR,South Indian,600,Yes,No
+Empire Restaurant,4.2,1668,JP Nagar,American,400,Yes,Yes
+Local Restaurant 334,3.4,919,Jayanagar,Pizza,1000,No,Yes
+Empire Restaurant,3.5,1472,Whitefield,South Indian,900,Yes,Yes
+KFC,3.3,1243,Indiranagar,Chinese,500,No,No
+Domino's Pizza,4.2,1847,Whitefield,American,1400,No,No
+Local Restaurant 338,4.8,2095,Whitefield,Italian,600,No,Yes
+Truffles,3.7,1690,HSR,Chinese,1000,Yes,No
+McDonald's,3.7,1374,Marathahalli,Cafe,700,No,No
+Burger King,4.6,1642,Whitefield,Chinese,700,Yes,No
+Cafe Coffee Day,3.6,1599,Marathahalli,Fast Food,500,No,No
+Empire Restaurant,4.2,320,BTM,Fast Food,400,No,No
+Truffles,4.8,1000,Indiranagar,South Indian,1400,No,No
+Domino's Pizza,3.3,394,JP Nagar,Multi Cuisine,900,No,No
+Local Restaurant 346,3.4,2247,BTM,Cafe,700,Yes,Yes
+Burger King,3.5,2411,MG Road,Italian,600,No,Yes
+KFC,4.2,1638,HSR,Multi Cuisine,500,Yes,Yes
+Local Restaurant 349,4.9,190,JP Nagar,Fast Food,1000,No,Yes
+Meghana Foods,4.6,1070,Koramangala,Pizza,700,No,No
+Meghana Foods,4.2,1150,JP Nagar,Pizza,600,Yes,No
+Local Restaurant 352,4.8,1158,BTM,American,800,Yes,Yes
+Local Restaurant 353,4.9,314,HSR,North Indian,700,No,Yes
+Domino's Pizza,3.7,1513,MG Road,American,400,Yes,Yes
+KFC,3.8,974,Whitefield,Italian,700,No,Yes
+Local Restaurant 356,3.2,450,Jayanagar,Italian,400,Yes,No
+Burger King,4.7,1409,BTM,Cafe,600,No,Yes
+Empire Restaurant,4.1,2495,HSR,Multi Cuisine,400,No,No
+Local Restaurant 359,4.1,1498,Marathahalli,Cafe,500,No,No
+Local Restaurant 360,4.5,212,HSR,Cafe,1000,No,Yes
+Burger King,4.0,2271,MG Road,Italian,700,No,No
+Pizza Hut,3.4,1777,Banashankari,American,1000,No,Yes
+Cafe Coffee Day,3.5,1261,Jayanagar,Italian,1200,No,No
+McDonald's,3.5,1656,JP Nagar,Multi Cuisine,600,Yes,Yes
+McDonald's,3.8,320,Jayanagar,Fast Food,1200,No,No
+KFC,3.8,1539,BTM,Chinese,600,No,Yes
+Domino's Pizza,3.4,2275,Marathahalli,Italian,1200,No,Yes
+Empire Restaurant,4.3,1904,Banashankari,South Indian,600,Yes,Yes
+Domino's Pizza,4.7,1426,Jayanagar,American,700,Yes,No
+KFC,4.1,1510,JP Nagar,American,1200,No,No
+Burger King,4.9,1747,BTM,Cafe,1400,Yes,Yes
+Burger King,3.9,823,Marathahalli,Pizza,400,Yes,Yes
+Empire Restaurant,4.7,406,BTM,Multi Cuisine,900,No,No
+Local Restaurant 374,3.4,944,JP Nagar,Chinese,1400,Yes,No
+Burger King,4.1,1831,BTM,Cafe,1200,No,Yes
+KFC,4.4,431,BTM,Fast Food,1000,No,Yes
+Domino's Pizza,4.1,1294,HSR,North Indian,600,No,No
+Cafe Coffee Day,4.0,586,Marathahalli,Multi Cuisine,600,Yes,Yes
+Pizza Hut,4.6,2500,Whitefield,South Indian,800,No,No
+Subway,3.5,1774,Jayanagar,Multi Cuisine,400,Yes,Yes
+Local Restaurant 381,4.8,796,Whitefield,Chinese,700,No,No
+Local Restaurant 382,3.8,1840,Whitefield,Cafe,700,Yes,No
+Local Restaurant 383,3.9,375,BTM,Fast Food,1400,No,No
+Cafe Coffee Day,4.0,2380,Banashankari,Multi Cuisine,800,Yes,No
+Burger King,3.2,1204,Marathahalli,Cafe,700,Yes,Yes
+Domino's Pizza,4.7,298,MG Road,Pizza,1200,Yes,Yes
+Pizza Hut,4.5,939,JP Nagar,North Indian,400,No,No
+Meghana Foods,4.1,1802,Jayanagar,South Indian,1400,Yes,No
+McDonald's,4.3,600,HSR,Chinese,400,No,No
+Empire Restaurant,4.4,424,Jayanagar,North Indian,600,Yes,No
+KFC,3.8,884,BTM,Fast Food,700,No,No
+Cafe Coffee Day,4.6,969,Marathahalli,Italian,1200,No,Yes
+Pizza Hut,4.2,476,HSR,Italian,400,No,No
+Subway,3.6,1984,Indiranagar,Biryani,1400,Yes,No
+Meghana Foods,3.2,1299,Banashankari,Cafe,700,Yes,Yes
+Burger King,4.7,1292,HSR,Fast Food,1400,Yes,No
+Local Restaurant 397,3.6,2100,JP Nagar,Fast Food,1200,No,Yes
+McDonald's,4.9,1147,Indiranagar,Chinese,700,No,No
+Pizza Hut,3.7,555,JP Nagar,American,1200,Yes,Yes
+Subway,4.8,2264,Jayanagar,Chinese,1200,Yes,No
+Empire Restaurant,3.6,2411,Banashankari,North Indian,600,No,Yes
+Meghana Foods,3.3,616,JP Nagar,South Indian,700,Yes,Yes
+Local Restaurant 403,4.5,61,Jayanagar,North Indian,400,Yes,Yes
+Meghana Foods,4.9,2161,BTM,Multi Cuisine,800,Yes,Yes
+Burger King,4.0,53,Jayanagar,South Indian,800,No,No
+Domino's Pizza,4.8,514,MG Road,North Indian,900,Yes,Yes
+Truffles,4.5,1624,BTM,Cafe,600,No,No
+Empire Restaurant,4.5,173,Whitefield,American,800,Yes,Yes
+Local Restaurant 409,4.7,744,Indiranagar,Italian,700,No,No
+Empire Restaurant,4.0,988,BTM,American,700,No,No
+Pizza Hut,4.7,942,JP Nagar,South Indian,1000,Yes,Yes
+Subway,4.7,410,Indiranagar,South Indian,1400,Yes,Yes
+Cafe Coffee Day,4.8,968,HSR,North Indian,700,Yes,Yes
+Local Restaurant 414,4.4,686,BTM,South Indian,500,Yes,No
+Meghana Foods,4.6,1479,MG Road,Biryani,700,No,Yes
+Empire Restaurant,4.1,1035,Banashankari,American,700,No,No
+Local Restaurant 417,4.8,1581,Marathahalli,Chinese,400,No,No
+Local Restaurant 418,4.3,1407,BTM,South Indian,800,Yes,Yes
+Cafe Coffee Day,4.2,1408,MG Road,Pizza,800,Yes,Yes
+Domino's Pizza,4.5,728,JP Nagar,Chinese,600,No,Yes
+Meghana Foods,4.2,1655,Whitefield,Multi Cuisine,1000,No,Yes
+Truffles,3.3,329,Marathahalli,South Indian,500,Yes,Yes
+Domino's Pizza,4.0,54,Koramangala,Pizza,400,Yes,Yes
+Pizza Hut,3.7,1882,JP Nagar,Italian,700,No,No
+Truffles,4.9,2174,MG Road,Cafe,500,No,Yes
+McDonald's,4.2,478,Whitefield,American,1400,Yes,No
+Local Restaurant 427,3.2,892,JP Nagar,Cafe,1200,Yes,No
+Pizza Hut,4.6,1493,BTM,American,900,Yes,No
+Burger King,4.6,1531,BTM,Multi Cuisine,800,No,Yes
+Pizza Hut,4.6,1692,Marathahalli,Biryani,500,No,No
+Domino's Pizza,4.0,447,Marathahalli,American,1000,Yes,Yes
+Local Restaurant 432,3.6,954,MG Road,North Indian,600,Yes,No
+McDonald's,4.0,2430,Koramangala,Pizza,700,No,No
+Local Restaurant 434,3.6,2457,Jayanagar,North Indian,500,No,Yes
+Truffles,3.4,582,BTM,Italian,900,Yes,Yes
+McDonald's,3.6,2464,Marathahalli,North Indian,900,No,No
+Local Restaurant 437,3.9,645,HSR,Pizza,1400,No,No
+Empire Restaurant,4.1,150,Whitefield,Chinese,1000,No,No
+Meghana Foods,3.2,1078,Marathahalli,North Indian,1000,Yes,Yes
+Pizza Hut,4.6,1825,Jayanagar,South Indian,1200,Yes,Yes
+Local Restaurant 441,3.6,938,BTM,North Indian,1400,No,Yes
+Local Restaurant 442,4.8,722,Marathahalli,Fast Food,700,No,No
+Domino's Pizza,3.8,1621,MG Road,North Indian,1000,Yes,Yes
+Domino's Pizza,3.8,1439,MG Road,North Indian,500,Yes,Yes
+Truffles,4.3,980,Jayanagar,North Indian,1000,No,No
+Subway,4.5,802,Banashankari,Cafe,600,No,Yes
+Burger King,4.5,859,Whitefield,Biryani,800,Yes,Yes
+Local Restaurant 448,4.4,2409,Whitefield,Cafe,900,No,No
+Domino's Pizza,4.2,1034,Indiranagar,Italian,1200,No,No
+Subway,3.8,808,HSR,Biryani,400,Yes,Yes
+Empire Restaurant,4.1,385,HSR,Fast Food,900,Yes,Yes
+McDonald's,4.5,1638,JP Nagar,Cafe,700,No,No
+Pizza Hut,3.3,896,Whitefield,American,800,No,No
+Truffles,4.5,705,Marathahalli,Pizza,500,No,Yes
+Local Restaurant 455,3.6,283,JP Nagar,North Indian,1000,No,No
+McDonald's,4.5,799,BTM,Multi Cuisine,1000,Yes,No
+Cafe Coffee Day,3.5,1092,Indiranagar,Pizza,1200,Yes,Yes
+Meghana Foods,4.3,1156,Indiranagar,Chinese,400,Yes,Yes
+Domino's Pizza,3.8,547,Banashankari,Italian,1200,No,Yes
+Truffles,3.5,116,MG Road,Chinese,1000,No,Yes
+Empire Restaurant,3.6,2104,Marathahalli,Chinese,600,No,No
+Meghana Foods,4.4,1325,MG Road,Fast Food,500,No,Yes
+Empire Restaurant,4.8,1126,Banashankari,Cafe,400,No,Yes
+Truffles,3.8,639,BTM,South Indian,1000,No,No
+Subway,3.8,93,BTM,Biryani,1000,Yes,Yes
+Domino's Pizza,3.3,1313,Marathahalli,Italian,400,Yes,No
+Burger King,3.5,1383,Koramangala,Fast Food,900,Yes,Yes
+Local Restaurant 468,3.4,249,JP Nagar,Cafe,400,Yes,Yes
+McDonald's,4.6,80,BTM,North Indian,400,Yes,Yes
+Burger King,4.8,1681,JP Nagar,Chinese,1000,No,No
+Burger King,3.4,908,MG Road,Multi Cuisine,800,Yes,No
+Burger King,3.8,2388,Koramangala,Multi Cuisine,500,No,Yes
+Empire Restaurant,3.8,1937,Marathahalli,Fast Food,800,Yes,Yes
+Pizza Hut,3.5,645,Indiranagar,Multi Cuisine,800,No,Yes
+Meghana Foods,3.9,1925,HSR,Multi Cuisine,700,No,No
+Truffles,4.8,1637,HSR,South Indian,1000,Yes,No
+Cafe Coffee Day,4.8,838,BTM,Fast Food,400,Yes,Yes
+Local Restaurant 478,4.1,1577,BTM,Fast Food,500,Yes,Yes
+McDonald's,4.0,1776,Whitefield,Cafe,400,Yes,No
+Local Restaurant 480,4.7,1781,Indiranagar,Italian,1400,No,Yes
+Truffles,4.4,1514,Banashankari,Biryani,400,Yes,No
+Truffles,4.8,910,Marathahalli,North Indian,400,No,No
+Local Restaurant 483,4.3,717,Banashankari,South Indian,600,No,No
+Meghana Foods,4.9,916,MG Road,North Indian,1200,No,Yes
+McDonald's,3.9,237,Indiranagar,Biryani,1400,Yes,No
+Cafe Coffee Day,3.7,1280,HSR,Chinese,600,No,Yes
+Meghana Foods,3.3,519,MG Road,Multi Cuisine,1000,Yes,Yes
+Truffles,4.1,2207,Indiranagar,Cafe,800,Yes,Yes
+Truffles,4.6,1533,BTM,Pizza,900,Yes,No
+McDonald's,3.9,2150,Jayanagar,Biryani,1000,No,Yes
+Domino's Pizza,3.7,538,Indiranagar,Multi Cuisine,900,Yes,Yes
+KFC,4.7,2385,BTM,American,800,No,No
+Pizza Hut,4.9,2280,MG Road,Pizza,600,No,No
+Truffles,4.7,2202,HSR,Multi Cuisine,800,Yes,Yes
+Cafe Coffee Day,3.9,827,Indiranagar,Italian,1000,No,Yes
+Domino's Pizza,4.1,239,Koramangala,Fast Food,1000,No,Yes
+Local Restaurant 497,4.2,1255,Marathahalli,American,1400,No,Yes
+Empire Restaurant,4.6,399,Marathahalli,American,600,Yes,No
+Burger King,4.4,1469,Banashankari,North Indian,500,Yes,Yes
+Local Restaurant 500,4.0,1207,Indiranagar,Multi Cuisine,1000,No,Yes
+Domino's Pizza,4.7,1888,Whitefield,Cafe,1000,Yes,Yes
+Meghana Foods,4.8,55,Koramangala,Multi Cuisine,1000,Yes,No
+Local Restaurant 503,4.8,1403,Marathahalli,Fast Food,900,No,Yes
+McDonald's,4.6,1840,Koramangala,Pizza,400,Yes,Yes
+Truffles,4.3,1326,Indiranagar,Chinese,400,Yes,No
+Cafe Coffee Day,4.8,499,Whitefield,North Indian,900,Yes,No
+Domino's Pizza,3.5,888,MG Road,Fast Food,500,No,Yes
+Domino's Pizza,3.5,1536,Banashankari,North Indian,900,Yes,Yes
+KFC,3.7,576,BTM,Cafe,1000,Yes,Yes
+Cafe Coffee Day,3.7,1744,HSR,American,900,Yes,No
+Pizza Hut,3.5,920,BTM,American,1200,Yes,Yes
+Empire Restaurant,3.3,881,MG Road,Italian,700,No,Yes
+Domino's Pizza,3.7,1344,Jayanagar,Italian,400,No,No
+Subway,4.6,2499,JP Nagar,South Indian,500,Yes,No
+Local Restaurant 515,4.4,1604,Koramangala,North Indian,800,No,No
+Pizza Hut,4.7,1684,Indiranagar,American,1400,No,No
+Subway,4.6,1116,JP Nagar,American,900,No,Yes
+Cafe Coffee Day,4.7,1694,Indiranagar,Multi Cuisine,1000,No,Yes
+Local Restaurant 519,4.8,1885,Banashankari,Biryani,700,Yes,No
+Local Restaurant 520,4.2,2461,HSR,Biryani,1200,No,Yes
+Local Restaurant 521,3.3,62,Koramangala,South Indian,1200,Yes,No
+Pizza Hut,4.8,371,Indiranagar,Multi Cuisine,700,Yes,No
+KFC,3.9,1993,Whitefield,American,1400,Yes,No
+Cafe Coffee Day,4.0,1585,BTM,Chinese,400,No,Yes
+Meghana Foods,3.3,475,Indiranagar,Cafe,1400,Yes,No
+Cafe Coffee Day,4.2,2455,Jayanagar,South Indian,700,No,No
+Cafe Coffee Day,4.2,521,Banashankari,Fast Food,700,Yes,No
+Meghana Foods,3.6,568,Indiranagar,Fast Food,1200,No,No
+KFC,4.1,1056,BTM,Pizza,900,No,No
+Domino's Pizza,4.2,1357,BTM,North Indian,400,No,Yes
+Truffles,3.5,1314,Indiranagar,South Indian,600,No,No
+Burger King,4.6,1760,Koramangala,Multi Cuisine,800,No,No
+KFC,4.9,1885,Whitefield,Chinese,800,Yes,No
+Cafe Coffee Day,4.6,1951,Koramangala,Biryani,1200,Yes,No
+Pizza Hut,4.0,2443,Whitefield,Cafe,900,Yes,No
+Burger King,3.3,100,Jayanagar,Multi Cuisine,400,No,No
+Pizza Hut,3.9,757,MG Road,Pizza,1000,No,Yes
+Local Restaurant 538,3.5,156,Koramangala,Chinese,1400,Yes,Yes
+Truffles,4.4,963,Jayanagar,Chinese,500,No,No
+Cafe Coffee Day,3.9,380,Banashankari,Italian,600,Yes,No
+Cafe Coffee Day,4.5,1040,Koramangala,Chinese,800,No,Yes
+McDonald's,4.2,388,HSR,Chinese,1400,No,Yes
+Local Restaurant 543,4.6,1899,Jayanagar,South Indian,1000,No,No
+Local Restaurant 544,4.0,757,Jayanagar,Pizza,1200,No,No
+Local Restaurant 545,3.3,1905,Jayanagar,South Indian,400,No,No
+Local Restaurant 546,4.7,2125,BTM,Italian,600,No,Yes
+Burger King,4.0,513,Banashankari,Italian,400,Yes,Yes
+Burger King,3.7,2493,HSR,South Indian,700,No,Yes
+Subway,4.2,2362,Indiranagar,Pizza,600,Yes,Yes
+Cafe Coffee Day,3.6,2337,HSR,Cafe,1200,No,Yes
+Meghana Foods,4.1,2264,HSR,Fast Food,900,Yes,Yes
+KFC,4.7,2431,HSR,South Indian,900,No,No
+Local Restaurant 553,4.4,212,Koramangala,Multi Cuisine,1000,Yes,Yes
+Local Restaurant 554,4.2,531,HSR,Biryani,600,No,Yes
+Truffles,3.4,1067,Indiranagar,Pizza,800,No,No
+Domino's Pizza,4.0,2485,Marathahalli,Pizza,600,No,Yes
+Domino's Pizza,4.8,2107,Whitefield,Fast Food,600,Yes,No
+Local Restaurant 558,4.3,1325,JP Nagar,North Indian,600,No,Yes
+Local Restaurant 559,3.9,1759,Koramangala,Cafe,700,Yes,Yes
+Domino's Pizza,4.7,784,Whitefield,Cafe,900,No,Yes
+KFC,3.2,1974,Banashankari,Multi Cuisine,1400,No,No
+Local Restaurant 562,4.7,1513,JP Nagar,Fast Food,1000,Yes,Yes
+Domino's Pizza,4.2,102,HSR,Biryani,900,No,No
+Subway,4.8,1369,MG Road,Chinese,1000,No,Yes
+Meghana Foods,4.2,869,JP Nagar,Italian,800,Yes,Yes
+Local Restaurant 566,4.1,1482,HSR,Fast Food,500,Yes,No
+KFC,3.6,2288,HSR,Fast Food,1200,Yes,No
+Pizza Hut,4.6,2415,BTM,North Indian,700,Yes,No
+Cafe Coffee Day,3.5,408,HSR,Multi Cuisine,400,No,Yes
+Local Restaurant 570,4.1,516,Indiranagar,North Indian,700,Yes,Yes
+Domino's Pizza,3.9,929,Whitefield,North Indian,1200,Yes,Yes
+McDonald's,3.8,694,HSR,North Indian,1000,No,Yes
+KFC,3.6,2211,BTM,North Indian,600,No,No
+Domino's Pizza,4.2,512,Indiranagar,Multi Cuisine,1000,No,Yes
+Subway,3.7,696,Koramangala,Italian,700,No,No
+Subway,3.5,508,MG Road,Fast Food,500,Yes,No
+Pizza Hut,3.9,2386,Indiranagar,American,500,No,Yes
+KFC,4.5,273,MG Road,South Indian,700,Yes,Yes
+Domino's Pizza,4.1,704,JP Nagar,Cafe,700,No,No
+Burger King,3.6,1559,Jayanagar,American,1400,Yes,No
+KFC,4.8,1897,BTM,Multi Cuisine,500,No,Yes
+Truffles,3.4,1647,MG Road,Chinese,800,Yes,No
+Empire Restaurant,4.7,1173,MG Road,Pizza,500,Yes,Yes
+Empire Restaurant,4.1,898,BTM,Cafe,1200,No,No
+Burger King,4.3,168,HSR,Italian,1200,No,Yes
+Local Restaurant 586,4.2,853,Banashankari,Biryani,600,No,No
+Local Restaurant 587,4.5,2451,MG Road,Biryani,700,Yes,Yes
+McDonald's,4.2,1383,Indiranagar,Cafe,900,No,Yes
+Domino's Pizza,3.8,888,Indiranagar,North Indian,900,Yes,No
+Local Restaurant 590,4.8,197,MG Road,South Indian,500,No,Yes
+Local Restaurant 591,3.4,1472,Jayanagar,Multi Cuisine,1000,No,Yes
+Subway,4.2,81,Banashankari,American,900,Yes,Yes
+Pizza Hut,4.0,1693,Banashankari,South Indian,400,Yes,Yes
+Domino's Pizza,4.7,937,MG Road,Pizza,500,No,No
+Local Restaurant 595,4.4,676,Marathahalli,Italian,1200,Yes,Yes
+Cafe Coffee Day,3.3,228,Whitefield,Italian,1000,Yes,No
+Cafe Coffee Day,3.3,2140,Whitefield,American,1400,Yes,Yes
+McDonald's,4.1,1516,MG Road,North Indian,800,Yes,Yes
+Truffles,4.5,2301,MG Road,Chinese,700,Yes,Yes
+Empire Restaurant,3.6,1767,JP Nagar,North Indian,1000,Yes,No
+Empire Restaurant,4.0,833,Marathahalli,Cafe,400,Yes,No
+McDonald's,4.8,883,Banashankari,Cafe,900,No,Yes
+KFC,3.3,1573,Koramangala,Biryani,1400,No,Yes
+Domino's Pizza,4.2,1835,Indiranagar,Pizza,900,No,Yes
+Domino's Pizza,4.6,730,MG Road,Biryani,1200,Yes,No
+Local Restaurant 606,3.9,236,Jayanagar,North Indian,500,No,No
+Cafe Coffee Day,3.6,917,HSR,Cafe,1000,No,No
+McDonald's,3.3,2403,Jayanagar,American,400,Yes,No
+Empire Restaurant,4.0,1368,Banashankari,American,600,Yes,No
+Domino's Pizza,3.7,684,Banashankari,Multi Cuisine,400,Yes,No
+Truffles,3.5,1548,Marathahalli,North Indian,1400,Yes,No
+Local Restaurant 612,3.8,2011,Marathahalli,South Indian,1400,No,No
+Burger King,4.5,1118,JP Nagar,Cafe,500,Yes,Yes
+Meghana Foods,4.6,887,Jayanagar,Multi Cuisine,700,Yes,Yes
+Empire Restaurant,4.3,2121,MG Road,Chinese,1000,No,Yes
+McDonald's,4.8,2293,Koramangala,Pizza,600,No,No
+McDonald's,4.6,2062,Banashankari,South Indian,400,Yes,No
+Pizza Hut,3.7,846,BTM,Multi Cuisine,1000,Yes,Yes
+Pizza Hut,4.7,1761,Koramangala,Pizza,700,Yes,Yes
+Empire Restaurant,4.7,2090,BTM,South Indian,400,Yes,No
+Meghana Foods,4.0,1699,Banashankari,Biryani,1200,No,No
+Local Restaurant 622,3.9,1998,HSR,Pizza,1200,Yes,No
+Truffles,3.9,1910,Jayanagar,Multi Cuisine,900,Yes,Yes
+Local Restaurant 624,3.5,51,BTM,North Indian,900,No,No
+Domino's Pizza,4.1,2187,HSR,American,1200,Yes,No
+Burger King,4.2,1486,HSR,South Indian,1000,No,Yes
+Truffles,4.2,273,Indiranagar,South Indian,600,Yes,No
+Meghana Foods,4.1,80,Koramangala,South Indian,400,Yes,No
+Burger King,4.5,143,Koramangala,Chinese,1000,Yes,Yes
+Local Restaurant 630,4.2,1023,Whitefield,Multi Cuisine,1200,No,Yes
+Empire Restaurant,3.7,1341,HSR,Multi Cuisine,400,No,No
+McDonald's,4.3,644,Marathahalli,Italian,700,Yes,No
+Empire Restaurant,4.2,933,HSR,Cafe,700,Yes,Yes
+Empire Restaurant,3.9,2144,MG Road,North Indian,900,No,No
+Meghana Foods,4.6,1789,HSR,American,500,Yes,No
+Truffles,4.9,2114,BTM,Cafe,600,No,Yes
+Empire Restaurant,3.7,2045,BTM,Multi Cuisine,500,No,Yes
+Domino's Pizza,4.6,1238,Indiranagar,Biryani,1400,Yes,No
+Cafe Coffee Day,4.6,2213,Jayanagar,Multi Cuisine,1000,Yes,Yes
+Cafe Coffee Day,3.4,2292,MG Road,North Indian,500,No,No
+Local Restaurant 641,4.8,275,Banashankari,Biryani,1400,No,Yes
+Local Restaurant 642,3.9,463,JP Nagar,Italian,800,No,No
+Cafe Coffee Day,4.4,2265,HSR,American,400,Yes,No
+KFC,3.4,1046,Koramangala,South Indian,800,No,Yes
+Truffles,3.3,109,MG Road,Fast Food,900,No,No
+Pizza Hut,4.8,1285,JP Nagar,Biryani,500,Yes,Yes
+Burger King,4.9,1549,BTM,American,1400,Yes,Yes
+Local Restaurant 648,4.6,341,Koramangala,Fast Food,500,Yes,No
+Local Restaurant 649,3.9,1635,Marathahalli,Italian,600,Yes,No
+Local Restaurant 650,4.9,290,Koramangala,American,700,Yes,No
+Subway,4.7,1335,Marathahalli,Fast Food,1400,No,No
+Local Restaurant 652,4.8,1022,HSR,North Indian,500,Yes,Yes
+Truffles,3.5,2333,Jayanagar,American,800,No,Yes
+McDonald's,4.8,1961,HSR,South Indian,1000,Yes,No
+Domino's Pizza,4.7,1214,Koramangala,Italian,1400,Yes,Yes
+Burger King,4.3,1546,JP Nagar,Cafe,1200,No,Yes
+Truffles,3.7,281,Koramangala,Multi Cuisine,700,No,No
+Local Restaurant 658,3.9,656,Indiranagar,American,1200,Yes,No
+Domino's Pizza,3.3,1347,Banashankari,Pizza,400,Yes,No
+Local Restaurant 660,3.2,313,HSR,American,500,Yes,Yes
+Local Restaurant 661,3.8,786,JP Nagar,South Indian,800,Yes,Yes
+KFC,4.3,992,BTM,South Indian,400,No,Yes
+Local Restaurant 663,3.9,678,Koramangala,Cafe,1400,No,Yes
+Local Restaurant 664,4.3,2369,Koramangala,North Indian,1400,Yes,No
+Local Restaurant 665,3.3,1454,Koramangala,Cafe,700,Yes,Yes
+Cafe Coffee Day,4.4,1195,BTM,American,600,Yes,Yes
+Pizza Hut,3.3,839,HSR,Italian,600,No,No
+Local Restaurant 668,4.6,1837,Koramangala,Biryani,700,Yes,No
+Empire Restaurant,3.7,1541,Koramangala,Biryani,1400,No,Yes
+Empire Restaurant,3.4,1350,Jayanagar,Italian,1000,Yes,No
+Burger King,3.8,327,JP Nagar,American,900,No,No
+Domino's Pizza,3.3,1856,HSR,Cafe,600,Yes,No
+Subway,4.2,802,JP Nagar,Biryani,900,Yes,Yes
+Truffles,4.7,1292,HSR,Pizza,500,Yes,Yes
+Cafe Coffee Day,4.4,1323,BTM,American,1400,No,No
+Subway,3.7,2013,HSR,South Indian,700,Yes,No
+Burger King,3.8,1031,Indiranagar,Cafe,1200,No,Yes
+Local Restaurant 678,3.4,2257,Whitefield,Fast Food,1000,No,Yes
+Domino's Pizza,3.5,522,Whitefield,Cafe,1400,Yes,Yes
+McDonald's,4.1,1723,JP Nagar,Chinese,700,Yes,No
+Subway,3.3,1927,Marathahalli,Italian,1000,No,Yes
+Local Restaurant 682,4.4,781,Jayanagar,Pizza,1400,No,No
+Subway,3.2,582,BTM,Cafe,500,Yes,No
+Subway,3.7,73,Whitefield,Cafe,500,No,Yes
+McDonald's,3.3,98,HSR,American,1200,No,No
+Cafe Coffee Day,4.5,1412,MG Road,Biryani,800,No,No
+Empire Restaurant,4.6,2154,JP Nagar,American,1200,No,Yes
+KFC,4.5,818,Banashankari,Biryani,500,No,Yes
+Local Restaurant 689,3.9,534,Indiranagar,American,500,No,Yes
+Pizza Hut,3.6,2227,MG Road,Chinese,900,No,Yes
+Subway,3.3,1074,Jayanagar,Pizza,700,Yes,No
+Subway,4.0,457,MG Road,Cafe,500,No,Yes
+Pizza Hut,3.3,1272,BTM,Chinese,400,No,No
+Local Restaurant 694,4.7,67,MG Road,Fast Food,900,No,No
+Burger King,3.4,2389,Indiranagar,Chinese,800,Yes,No
+Truffles,4.4,2094,Koramangala,Pizza,1000,Yes,No
+Local Restaurant 697,3.5,226,BTM,Italian,1000,No,Yes
+Subway,4.8,1454,Koramangala,South Indian,500,Yes,Yes
+Domino's Pizza,4.6,977,Indiranagar,Chinese,600,Yes,Yes
+Burger King,4.6,1178,JP Nagar,Fast Food,700,No,Yes
+Domino's Pizza,4.6,1402,Indiranagar,Cafe,700,No,No
+KFC,4.9,817,JP Nagar,South Indian,900,No,Yes
+Truffles,4.7,1870,JP Nagar,Fast Food,400,Yes,Yes
+Pizza Hut,3.8,1660,Marathahalli,Italian,1000,No,Yes
+Local Restaurant 705,3.7,2204,Jayanagar,Chinese,1200,No,Yes
+Local Restaurant 706,4.4,1575,Marathahalli,Fast Food,600,No,Yes
+Local Restaurant 707,3.8,1226,MG Road,South Indian,1400,Yes,No
+Subway,3.4,315,Indiranagar,South Indian,800,No,No
+Truffles,3.3,643,BTM,Pizza,1200,No,No
+Truffles,3.6,1782,MG Road,Pizza,900,No,No
+KFC,3.3,683,Indiranagar,South Indian,400,Yes,No
+Domino's Pizza,3.7,2008,MG Road,Italian,900,No,Yes
+Burger King,3.4,355,Jayanagar,Biryani,700,Yes,No
+Burger King,3.4,75,Indiranagar,Pizza,800,No,No
+Local Restaurant 715,4.4,1132,Banashankari,Chinese,800,Yes,Yes
+Pizza Hut,3.6,1924,BTM,Pizza,500,No,Yes
+Burger King,3.3,520,Banashankari,Italian,500,Yes,Yes
+McDonald's,4.4,1126,Whitefield,Pizza,900,Yes,Yes
+Subway,3.2,1785,Koramangala,Italian,900,No,Yes
+Pizza Hut,4.9,389,Jayanagar,Biryani,1400,No,No
+Pizza Hut,3.4,732,Marathahalli,Fast Food,600,No,Yes
+Empire Restaurant,4.0,715,JP Nagar,Multi Cuisine,900,Yes,Yes
+Meghana Foods,4.4,1323,Jayanagar,Chinese,800,Yes,Yes
+Pizza Hut,4.2,1637,Indiranagar,Fast Food,1000,No,No
+KFC,4.1,1828,Whitefield,Fast Food,500,Yes,Yes
+Local Restaurant 726,4.6,2108,Marathahalli,Multi Cuisine,1200,No,Yes
+Local Restaurant 727,4.3,965,MG Road,North Indian,1200,Yes,No
+Domino's Pizza,3.2,1810,Indiranagar,Chinese,700,No,Yes
+McDonald's,4.2,1602,Whitefield,Cafe,800,No,Yes
+McDonald's,3.7,1368,Jayanagar,Multi Cuisine,1000,Yes,Yes
+Subway,4.9,1109,HSR,Cafe,400,No,Yes
+Burger King,4.7,886,Whitefield,Fast Food,900,Yes,Yes
+KFC,4.2,1019,Marathahalli,Fast Food,600,Yes,Yes
+Burger King,4.1,509,Indiranagar,American,400,Yes,No
+Local Restaurant 735,4.8,296,Whitefield,Fast Food,1000,No,Yes
+Truffles,4.5,1791,MG Road,Italian,400,No,No
+Empire Restaurant,4.8,727,HSR,North Indian,700,No,No
+Domino's Pizza,3.8,2439,BTM,Pizza,500,Yes,Yes
+Domino's Pizza,3.7,1872,HSR,North Indian,500,Yes,No
+KFC,3.2,1554,MG Road,North Indian,1000,No,Yes
+Burger King,3.5,904,Indiranagar,Chinese,1200,Yes,No
+Cafe Coffee Day,3.4,2191,MG Road,Fast Food,600,No,No
+McDonald's,4.0,1710,MG Road,Biryani,600,Yes,Yes
+Local Restaurant 744,3.7,1994,JP Nagar,South Indian,1200,Yes,Yes
+KFC,3.7,1118,MG Road,Cafe,700,No,No
+Cafe Coffee Day,4.7,2203,Whitefield,Pizza,400,Yes,No
+Domino's Pizza,3.6,784,Jayanagar,Italian,1400,No,Yes
+Pizza Hut,4.1,64,HSR,Fast Food,500,Yes,No
+McDonald's,3.5,422,Indiranagar,Fast Food,1000,No,No
+Subway,4.1,2453,Banashankari,American,700,Yes,Yes
+Domino's Pizza,4.5,377,Jayanagar,South Indian,800,Yes,No
+Local Restaurant 752,3.9,1873,Koramangala,South Indian,900,Yes,No
+Meghana Foods,4.5,135,BTM,South Indian,700,No,No
+Subway,4.8,415,Banashankari,Cafe,600,No,No
+Subway,3.8,441,Banashankari,Cafe,1000,Yes,No
+Pizza Hut,4.2,173,Indiranagar,Pizza,600,Yes,No
+Burger King,3.3,1331,Whitefield,Pizza,1000,No,No
+Cafe Coffee Day,4.9,1007,Marathahalli,Biryani,500,No,Yes
+Local Restaurant 759,4.4,61,BTM,Chinese,1200,Yes,Yes
+Pizza Hut,3.8,509,BTM,Multi Cuisine,1200,Yes,No
+Domino's Pizza,3.5,236,Koramangala,North Indian,1400,Yes,No
+Truffles,3.2,2007,Jayanagar,Biryani,900,No,No
+KFC,4.3,1696,Koramangala,Multi Cuisine,700,No,No
+Pizza Hut,3.9,503,MG Road,Cafe,500,Yes,No
+Pizza Hut,3.4,2313,Jayanagar,Biryani,700,Yes,No
+Meghana Foods,3.6,2295,Koramangala,South Indian,600,Yes,Yes
+Meghana Foods,3.6,2408,Jayanagar,North Indian,900,No,Yes
+Subway,4.6,1568,Marathahalli,South Indian,900,Yes,Yes
+Domino's Pizza,4.6,2085,BTM,American,400,Yes,No
+Meghana Foods,4.6,2432,Jayanagar,South Indian,1200,Yes,No
+Empire Restaurant,3.3,665,MG Road,Biryani,1400,Yes,Yes
+Truffles,4.4,791,Indiranagar,Cafe,1200,No,Yes
+McDonald's,3.9,1395,HSR,Chinese,500,Yes,No
+Pizza Hut,4.1,1239,Banashankari,Biryani,600,No,No
+Empire Restaurant,3.9,2342,Jayanagar,Cafe,900,Yes,Yes
+Pizza Hut,3.7,58,Marathahalli,Biryani,800,Yes,No
+Truffles,4.3,2460,Koramangala,Chinese,500,No,Yes
+Local Restaurant 778,3.4,1148,Banashankari,Italian,600,No,Yes
+Subway,3.5,1281,MG Road,South Indian,1200,Yes,No
+KFC,4.7,1979,Indiranagar,Pizza,600,Yes,Yes
+Burger King,4.1,159,Marathahalli,Pizza,1400,Yes,Yes
+Burger King,4.4,1448,Indiranagar,Pizza,600,No,Yes
+Local Restaurant 783,3.5,2374,Koramangala,North Indian,1000,Yes,Yes
+Meghana Foods,4.1,1521,BTM,Multi Cuisine,400,No,Yes
+Pizza Hut,4.8,2309,HSR,North Indian,400,No,Yes
+KFC,4.6,839,Indiranagar,Chinese,800,Yes,Yes
+KFC,3.4,2390,Whitefield,North Indian,400,Yes,No
+Local Restaurant 788,4.5,1542,HSR,North Indian,900,Yes,Yes
+Cafe Coffee Day,3.3,274,HSR,South Indian,800,Yes,No
+Burger King,4.8,1883,HSR,Multi Cuisine,800,Yes,No
+Truffles,3.4,169,MG Road,American,400,Yes,No
+Domino's Pizza,4.5,1128,Koramangala,Chinese,900,Yes,Yes
+Subway,4.1,2094,Marathahalli,Italian,500,No,Yes
+Meghana Foods,3.5,1489,Whitefield,Chinese,900,Yes,Yes
+Meghana Foods,4.7,1735,Jayanagar,Chinese,800,Yes,No
+Local Restaurant 796,4.7,548,MG Road,Biryani,1200,Yes,Yes
+Local Restaurant 797,4.6,1020,HSR,Italian,1000,No,Yes
+Meghana Foods,3.4,754,Marathahalli,South Indian,900,Yes,No
+McDonald's,3.8,1608,Indiranagar,North Indian,1000,Yes,Yes
+Subway,4.5,591,Banashankari,North Indian,1400,Yes,Yes
+Truffles,4.6,2353,Indiranagar,South Indian,1000,No,No
+Subway,4.0,1657,Banashankari,South Indian,800,No,No
+Burger King,3.5,1797,Whitefield,Fast Food,1200,No,No
+Local Restaurant 804,3.7,780,JP Nagar,Fast Food,1400,No,No
+Meghana Foods,3.8,1571,Koramangala,Fast Food,800,Yes,Yes
+Subway,4.5,2267,Banashankari,Pizza,800,Yes,No
+Subway,4.8,1641,Koramangala,Multi Cuisine,1200,Yes,Yes
+Subway,3.9,221,JP Nagar,Italian,500,Yes,Yes
+Burger King,4.8,2401,Marathahalli,American,1400,No,Yes
+Burger King,4.6,2447,Jayanagar,South Indian,400,Yes,Yes
+Burger King,3.7,2063,JP Nagar,Chinese,1000,Yes,Yes
+Burger King,4.8,1572,BTM,Multi Cuisine,1400,Yes,Yes
+Truffles,3.6,2283,MG Road,Fast Food,1200,Yes,No
+Domino's Pizza,4.3,804,Koramangala,Italian,600,Yes,No
+Truffles,4.4,134,Indiranagar,Pizza,600,Yes,No
+Subway,3.5,913,JP Nagar,Italian,1000,Yes,Yes
+Meghana Foods,4.5,212,HSR,Multi Cuisine,400,Yes,No
+McDonald's,4.5,1042,Jayanagar,Italian,1200,No,No
+KFC,4.7,2148,JP Nagar,Fast Food,1200,No,No
+Empire Restaurant,4.4,1704,Koramangala,Biryani,800,Yes,Yes
+Burger King,4.1,1544,Marathahalli,Chinese,800,Yes,Yes
+Meghana Foods,3.7,1725,Whitefield,South Indian,700,Yes,No
+Domino's Pizza,4.9,428,HSR,South Indian,1200,No,Yes
+Local Restaurant 824,4.2,2074,Banashankari,Biryani,700,Yes,Yes
+Cafe Coffee Day,3.4,1035,Koramangala,Fast Food,700,No,No
+Subway,3.9,1463,MG Road,Cafe,500,No,Yes
+Meghana Foods,3.7,1992,MG Road,Fast Food,700,No,Yes
+McDonald's,3.3,2130,Whitefield,Italian,600,Yes,Yes
+Local Restaurant 829,4.3,518,Whitefield,American,500,Yes,Yes
+Subway,4.7,397,Koramangala,Multi Cuisine,1200,Yes,No
+Domino's Pizza,3.9,1905,JP Nagar,American,700,Yes,No
+Burger King,4.4,2078,Marathahalli,Biryani,700,No,No
+Truffles,4.2,589,Koramangala,Fast Food,1200,No,Yes
+Cafe Coffee Day,4.5,1043,Whitefield,South Indian,900,Yes,Yes
+Cafe Coffee Day,3.7,1335,Jayanagar,Italian,1400,No,Yes
+Truffles,4.3,1927,MG Road,Chinese,700,Yes,Yes
+Meghana Foods,3.8,2360,Jayanagar,Fast Food,900,No,Yes
+Subway,3.2,2292,JP Nagar,South Indian,1000,No,Yes
+Local Restaurant 839,4.4,435,Marathahalli,North Indian,1200,No,No
+Empire Restaurant,3.7,1598,Koramangala,Fast Food,500,Yes,No
+Subway,4.7,1352,Whitefield,Italian,1400,Yes,No
+Domino's Pizza,4.3,483,Marathahalli,Fast Food,400,No,Yes
+Burger King,3.6,2083,BTM,Chinese,1200,No,Yes
+Meghana Foods,3.8,1926,JP Nagar,Chinese,1200,No,Yes
+Meghana Foods,4.5,392,BTM,Pizza,600,No,No
+Subway,4.3,1567,MG Road,Multi Cuisine,500,Yes,Yes
+Subway,3.4,2098,Whitefield,Italian,700,No,No
+McDonald's,4.5,766,MG Road,Chinese,1000,No,Yes
+Pizza Hut,4.5,2429,MG Road,Biryani,700,Yes,Yes
+Cafe Coffee Day,4.1,242,Jayanagar,Pizza,1200,No,No
+Pizza Hut,4.4,1231,Jayanagar,Multi Cuisine,500,No,No
+Subway,3.8,1385,Indiranagar,Multi Cuisine,600,No,Yes
+Local Restaurant 853,3.8,404,HSR,South Indian,500,Yes,Yes
+Burger King,4.5,353,Indiranagar,Biryani,1000,Yes,No
+KFC,4.6,1058,Jayanagar,Pizza,1200,No,Yes
+Local Restaurant 856,4.6,1141,Indiranagar,North Indian,1000,Yes,No
+Burger King,3.4,438,Marathahalli,North Indian,400,No,No
+Domino's Pizza,4.1,845,MG Road,American,800,Yes,No
+Pizza Hut,4.3,300,Whitefield,Cafe,500,No,No
+Truffles,3.4,1226,JP Nagar,Pizza,1400,No,No
+McDonald's,4.9,193,Indiranagar,Multi Cuisine,800,No,No
+Local Restaurant 862,4.0,619,HSR,North Indian,700,Yes,Yes
+Pizza Hut,4.0,749,JP Nagar,Italian,700,No,Yes
+Pizza Hut,4.5,134,JP Nagar,North Indian,1000,Yes,No
+Subway,4.8,773,Marathahalli,Fast Food,500,No,No
+Subway,3.8,1901,Whitefield,Chinese,1400,No,Yes
+Truffles,3.5,488,MG Road,Cafe,1400,Yes,Yes
+Local Restaurant 868,3.7,216,Jayanagar,Cafe,500,Yes,No
+Truffles,3.5,1815,Indiranagar,Pizza,600,Yes,No
+Domino's Pizza,3.3,1220,HSR,Pizza,900,Yes,Yes
+Local Restaurant 871,4.1,1239,Whitefield,Cafe,500,No,Yes
+Meghana Foods,4.6,1974,JP Nagar,Pizza,800,Yes,No
+Local Restaurant 873,4.0,1219,Jayanagar,Multi Cuisine,1000,No,No
+Empire Restaurant,4.3,705,Indiranagar,Fast Food,1200,No,Yes
+Domino's Pizza,4.5,643,JP Nagar,Chinese,700,No,No
+Domino's Pizza,4.6,2180,BTM,South Indian,900,No,Yes
+Subway,3.2,1944,Indiranagar,North Indian,1200,Yes,Yes
+Meghana Foods,4.4,1459,BTM,South Indian,800,Yes,Yes
+McDonald's,3.8,1422,Jayanagar,Cafe,900,Yes,Yes
+Burger King,3.9,2443,BTM,Multi Cuisine,900,No,No
+Burger King,3.9,501,Jayanagar,American,400,No,No
+Local Restaurant 882,3.5,99,Whitefield,Multi Cuisine,900,Yes,No
+McDonald's,4.1,1485,MG Road,North Indian,1200,No,No
+Subway,4.2,1094,MG Road,Chinese,1000,No,Yes
+Pizza Hut,3.6,1566,BTM,Pizza,900,Yes,Yes
+Truffles,4.4,2277,Marathahalli,South Indian,1400,No,No
+Local Restaurant 887,4.1,650,Marathahalli,Chinese,400,No,Yes
+Empire Restaurant,4.8,2417,HSR,Biryani,1200,Yes,Yes
+Cafe Coffee Day,4.0,1718,Jayanagar,Multi Cuisine,1000,No,Yes
+Local Restaurant 890,4.8,1662,BTM,Biryani,600,No,Yes
+Local Restaurant 891,4.3,1352,MG Road,Multi Cuisine,1000,No,No
+Local Restaurant 892,3.3,1506,BTM,Fast Food,700,No,Yes
+Domino's Pizza,3.8,1169,BTM,Fast Food,800,Yes,Yes
+Burger King,3.7,900,Whitefield,South Indian,500,Yes,No
+Truffles,3.3,2128,Banashankari,Italian,1400,No,No
+Local Restaurant 896,4.7,245,MG Road,North Indian,500,Yes,Yes
+Empire Restaurant,4.6,698,Jayanagar,Biryani,1000,Yes,No
+Subway,3.8,1367,Indiranagar,South Indian,1400,No,No
+Empire Restaurant,4.0,1481,Whitefield,Multi Cuisine,1000,Yes,No
+Pizza Hut,3.4,994,Indiranagar,Multi Cuisine,900,No,Yes
+Truffles,4.4,1060,MG Road,Pizza,700,Yes,No
+KFC,4.0,274,Banashankari,North Indian,1400,No,Yes
+Burger King,4.3,1770,Marathahalli,Chinese,600,Yes,No
+Burger King,3.6,2189,Indiranagar,South Indian,700,No,No
+Truffles,4.1,1273,Banashankari,South Indian,1200,No,Yes
+Empire Restaurant,3.9,1921,Marathahalli,Chinese,400,No,Yes
+Local Restaurant 907,4.6,174,Koramangala,Biryani,1000,No,Yes
+Pizza Hut,4.0,297,Indiranagar,Biryani,1200,Yes,No
+KFC,3.7,1374,Marathahalli,Pizza,1400,Yes,Yes
+Cafe Coffee Day,3.3,1934,Koramangala,American,900,No,No
+Cafe Coffee Day,4.7,1810,BTM,Italian,900,Yes,Yes
+Cafe Coffee Day,4.5,358,Jayanagar,Pizza,900,No,Yes
+Local Restaurant 913,4.5,1375,Marathahalli,Cafe,1200,No,Yes
+Local Restaurant 914,4.7,1597,Whitefield,Multi Cuisine,1200,No,No
+Truffles,3.8,1630,BTM,Pizza,400,Yes,No
+Domino's Pizza,3.4,511,Jayanagar,Italian,600,No,No
+Cafe Coffee Day,4.6,1033,Marathahalli,Pizza,1200,No,Yes
+Empire Restaurant,4.0,744,MG Road,Italian,1000,No,No
+McDonald's,3.8,760,Koramangala,Fast Food,1200,No,Yes
+Truffles,4.8,422,Koramangala,Cafe,800,No,Yes
+Burger King,3.7,1606,MG Road,Multi Cuisine,700,No,No
+Local Restaurant 922,3.3,2454,MG Road,Fast Food,400,No,Yes
+McDonald's,4.6,1416,JP Nagar,Cafe,600,No,Yes
+Subway,4.7,171,Whitefield,Cafe,900,No,No
+Empire Restaurant,4.2,764,HSR,Fast Food,1200,No,No
+Empire Restaurant,3.8,448,BTM,Italian,1400,No,Yes
+Local Restaurant 927,3.6,522,MG Road,Chinese,500,No,No
+Local Restaurant 928,3.6,2394,JP Nagar,Multi Cuisine,800,No,Yes
+KFC,3.5,668,Indiranagar,North Indian,1000,Yes,Yes
+Pizza Hut,3.3,2114,Whitefield,Biryani,900,Yes,No
+Meghana Foods,3.8,1955,BTM,Italian,1400,No,Yes
+Local Restaurant 932,3.6,1228,Banashankari,Biryani,1000,Yes,No
+Local Restaurant 933,3.5,608,Koramangala,North Indian,900,Yes,Yes
+Local Restaurant 934,3.9,2439,JP Nagar,South Indian,1000,No,Yes
+Pizza Hut,4.3,563,BTM,North Indian,900,Yes,Yes
+Subway,4.6,1574,JP Nagar,Multi Cuisine,700,Yes,Yes
+Domino's Pizza,4.8,1190,HSR,Italian,500,Yes,No
+Burger King,3.5,1722,Whitefield,Cafe,500,No,No
+Local Restaurant 939,4.2,437,BTM,South Indian,1000,Yes,Yes
+Pizza Hut,4.2,52,Whitefield,American,600,No,No
+Cafe Coffee Day,4.5,1351,MG Road,Chinese,1400,No,Yes
+Local Restaurant 942,4.9,1268,JP Nagar,Cafe,900,No,Yes
+Truffles,4.0,406,Marathahalli,Chinese,1400,No,Yes
+Domino's Pizza,3.8,80,Koramangala,Chinese,1200,No,Yes
+Burger King,3.5,1729,MG Road,Chinese,800,Yes,No
+Cafe Coffee Day,4.7,1768,Banashankari,Multi Cuisine,500,Yes,Yes
+Subway,4.1,1090,Indiranagar,American,800,Yes,No
+KFC,3.3,117,JP Nagar,American,400,Yes,Yes
+Pizza Hut,3.4,991,Banashankari,Multi Cuisine,400,Yes,Yes
+KFC,4.9,995,HSR,American,400,Yes,No
+Local Restaurant 951,4.8,1819,MG Road,Cafe,800,Yes,No
+Cafe Coffee Day,4.6,2196,HSR,Biryani,600,No,Yes
+Meghana Foods,4.2,743,Banashankari,American,1000,Yes,No
+Empire Restaurant,4.6,1535,Marathahalli,North Indian,500,Yes,Yes
+Pizza Hut,3.5,1581,Banashankari,Fast Food,700,Yes,No
+Subway,4.2,1022,Whitefield,Biryani,1400,Yes,Yes
+McDonald's,3.8,453,JP Nagar,Multi Cuisine,1000,Yes,Yes
+Empire Restaurant,3.8,849,HSR,Pizza,1400,Yes,No
+Cafe Coffee Day,4.0,260,Whitefield,Chinese,900,No,No
+Burger King,4.4,1532,Banashankari,South Indian,1400,No,Yes
+Pizza Hut,4.7,138,BTM,South Indian,1400,Yes,No
+Cafe Coffee Day,4.4,1881,HSR,Pizza,900,No,Yes
+KFC,4.7,1605,Jayanagar,Fast Food,1400,Yes,Yes
+Truffles,4.3,1656,Banashankari,Chinese,700,Yes,Yes
+Meghana Foods,3.5,1415,Koramangala,Italian,1200,Yes,Yes
+Burger King,3.4,624,Banashankari,South Indian,1000,No,No
+Local Restaurant 967,4.2,1079,Indiranagar,Fast Food,900,Yes,No
+Local Restaurant 968,4.5,251,Marathahalli,Italian,500,Yes,No
+Local Restaurant 969,3.8,864,Marathahalli,Italian,700,No,No
+Local Restaurant 970,3.3,1829,Jayanagar,Fast Food,400,Yes,Yes
+Local Restaurant 971,4.7,1440,Banashankari,North Indian,600,Yes,No
+Cafe Coffee Day,4.8,1490,JP Nagar,Pizza,400,Yes,No
+Meghana Foods,3.9,2212,Marathahalli,Multi Cuisine,500,Yes,No
+Truffles,3.7,1140,JP Nagar,Pizza,800,Yes,Yes
+Subway,4.9,1686,Banashankari,North Indian,800,Yes,No
+Local Restaurant 976,3.3,603,JP Nagar,South Indian,900,Yes,Yes
+Burger King,4.2,1664,Banashankari,Pizza,500,Yes,No
+Meghana Foods,3.4,2037,Indiranagar,Fast Food,400,Yes,Yes
+McDonald's,3.4,2050,Marathahalli,Pizza,600,No,No
+Cafe Coffee Day,4.0,1571,Marathahalli,Chinese,800,Yes,Yes
+Local Restaurant 981,4.0,175,Whitefield,Multi Cuisine,500,Yes,No
+Domino's Pizza,3.6,2035,HSR,Pizza,400,Yes,Yes
+Truffles,4.2,2400,JP Nagar,Fast Food,700,No,No
+KFC,4.4,673,Koramangala,Pizza,600,Yes,No
+Meghana Foods,4.4,869,MG Road,Italian,700,No,Yes
+Local Restaurant 986,3.7,1514,Whitefield,Fast Food,1200,No,No
+Burger King,4.9,2267,HSR,South Indian,400,Yes,No
+Empire Restaurant,4.4,2137,Indiranagar,South Indian,1200,Yes,No
+Empire Restaurant,3.6,1930,Whitefield,Multi Cuisine,1000,Yes,No
+KFC,4.2,946,Marathahalli,Biryani,400,No,No
+Empire Restaurant,4.3,1409,Jayanagar,Cafe,800,No,Yes
+Local Restaurant 992,3.8,2386,MG Road,Pizza,900,No,Yes
+Burger King,4.7,331,Banashankari,Chinese,500,Yes,No
+Local Restaurant 994,3.5,377,Marathahalli,Cafe,800,No,No
+Truffles,3.4,1603,Jayanagar,South Indian,700,No,Yes
+Local Restaurant 996,4.3,1754,Indiranagar,Multi Cuisine,1000,No,No
+Meghana Foods,4.2,1789,JP Nagar,Multi Cuisine,600,No,Yes
+Domino's Pizza,3.4,984,Koramangala,North Indian,1200,Yes,No
+Subway,4.9,1608,Jayanagar,North Indian,400,No,Yes
+Subway,4.0,734,Koramangala,Biryani,400,Yes,No
+Truffles,3.7,1003,Koramangala,Chinese,700,Yes,No
+KFC,4.7,2284,Koramangala,North Indian,800,No,No
+Meghana Foods,3.9,478,Koramangala,Chinese,1200,No,No
+Meghana Foods,4.1,1960,Indiranagar,South Indian,900,No,Yes
+Truffles,4.1,1838,HSR,Multi Cuisine,600,No,Yes
+Local Restaurant 1006,4.4,926,MG Road,South Indian,900,Yes,No
+Local Restaurant 1007,4.7,1902,Whitefield,Italian,700,No,No
+Empire Restaurant,4.7,335,JP Nagar,Fast Food,1000,No,Yes
+Cafe Coffee Day,4.7,2107,Banashankari,Cafe,1400,No,No
+Subway,3.9,506,Banashankari,Italian,500,Yes,No
+KFC,4.4,554,Marathahalli,Cafe,700,No,Yes
+Cafe Coffee Day,4.2,1768,JP Nagar,Cafe,900,No,Yes
+Domino's Pizza,4.7,1463,JP Nagar,Multi Cuisine,1400,Yes,Yes
+Truffles,3.4,316,Indiranagar,Italian,900,Yes,No
+Pizza Hut,3.5,84,Indiranagar,Fast Food,1200,No,No
+Pizza Hut,3.4,1706,JP Nagar,Pizza,1000,No,Yes
+Burger King,4.6,1488,Banashankari,Pizza,1200,No,Yes
+Subway,4.5,382,JP Nagar,South Indian,1200,No,Yes
+Subway,3.9,674,Whitefield,South Indian,900,Yes,Yes
+Local Restaurant 1020,3.9,1749,Indiranagar,Cafe,600,No,Yes
+Local Restaurant 1021,3.6,2428,HSR,Biryani,1200,Yes,No
+Empire Restaurant,4.2,918,MG Road,Fast Food,900,No,No
+Truffles,4.5,1604,HSR,Pizza,400,Yes,No
+Truffles,4.2,2485,Jayanagar,Chinese,600,Yes,No
+Subway,3.5,1346,HSR,Biryani,1400,No,No
+Pizza Hut,3.6,894,Indiranagar,Pizza,500,No,Yes
+McDonald's,3.7,628,Whitefield,North Indian,1000,No,No
+Domino's Pizza,3.6,787,BTM,North Indian,600,Yes,No
+Truffles,4.3,1609,BTM,Biryani,1400,No,Yes
+Local Restaurant 1030,4.5,2325,Marathahalli,North Indian,800,Yes,Yes
+Local Restaurant 1031,3.8,507,HSR,American,800,No,Yes
+Pizza Hut,4.5,1990,Whitefield,Italian,500,Yes,No
+Burger King,4.6,1461,Koramangala,Cafe,1400,Yes,No
+KFC,3.5,1233,Jayanagar,American,700,No,Yes
+Local Restaurant 1035,4.8,1479,Koramangala,Chinese,500,No,No
+McDonald's,4.9,2176,JP Nagar,South Indian,800,Yes,Yes
+Truffles,4.1,1568,HSR,Italian,900,Yes,Yes
+Burger King,4.8,2338,BTM,South Indian,1000,No,No
+KFC,4.0,525,BTM,Multi Cuisine,500,No,Yes
+Local Restaurant 1040,4.1,1723,Banashankari,Chinese,1400,Yes,No
+KFC,4.2,1621,Jayanagar,North Indian,700,Yes,No
+KFC,3.8,1174,BTM,Multi Cuisine,900,No,No
+Empire Restaurant,4.8,437,Jayanagar,Italian,400,No,Yes
+Local Restaurant 1044,4.7,914,Marathahalli,Cafe,700,No,No
+McDonald's,3.7,1212,JP Nagar,Pizza,800,Yes,Yes
+Pizza Hut,3.8,294,Banashankari,South Indian,800,No,Yes
+Domino's Pizza,4.5,453,MG Road,Biryani,1000,Yes,Yes
+Local Restaurant 1048,4.7,1062,Indiranagar,Chinese,1000,No,Yes
+KFC,3.9,1544,Marathahalli,Biryani,1000,No,Yes
+Cafe Coffee Day,4.8,2000,Marathahalli,Chinese,1000,No,No
+Cafe Coffee Day,4.0,1550,Whitefield,North Indian,1000,Yes,Yes
+Local Restaurant 1052,4.6,927,Marathahalli,Cafe,700,Yes,No
+Meghana Foods,3.5,1672,Banashankari,Multi Cuisine,1200,No,Yes
+Empire Restaurant,3.4,719,BTM,Cafe,1000,No,No
+Domino's Pizza,4.4,112,Whitefield,Pizza,1400,No,Yes
+McDonald's,3.4,242,Banashankari,Pizza,900,No,Yes
+Empire Restaurant,3.6,575,MG Road,Italian,800,No,Yes
+Truffles,4.2,2074,HSR,Fast Food,1000,No,No
+KFC,3.8,2453,Jayanagar,South Indian,1400,No,Yes
+Truffles,4.0,702,Jayanagar,Fast Food,600,No,No
+KFC,3.9,1051,Marathahalli,South Indian,1000,Yes,No
+Pizza Hut,3.8,2123,JP Nagar,Italian,400,No,Yes
+Local Restaurant 1063,3.8,2400,Marathahalli,Biryani,700,Yes,No
+Empire Restaurant,4.0,155,MG Road,Chinese,800,No,Yes
+McDonald's,3.6,1328,Whitefield,Chinese,600,Yes,No
+KFC,3.7,2132,HSR,Multi Cuisine,400,No,Yes
+Burger King,3.4,2033,Indiranagar,Chinese,700,Yes,No
+Cafe Coffee Day,3.9,1670,Jayanagar,South Indian,1400,No,No
+Pizza Hut,3.8,1680,Indiranagar,Fast Food,600,No,No
+Domino's Pizza,4.7,2383,Whitefield,Pizza,400,No,No
+Meghana Foods,3.5,2142,Whitefield,North Indian,900,No,Yes
+Meghana Foods,4.3,1921,Banashankari,Fast Food,700,Yes,No
+Subway,3.2,439,Marathahalli,Fast Food,1200,No,No
+Meghana Foods,3.8,294,Jayanagar,Pizza,500,Yes,Yes
+Truffles,3.9,1642,Koramangala,Fast Food,500,No,Yes
+McDonald's,3.9,522,BTM,Chinese,600,Yes,No
+Burger King,4.2,1487,Marathahalli,Fast Food,1200,Yes,Yes
+Cafe Coffee Day,4.6,1539,HSR,North Indian,900,No,No
+Cafe Coffee Day,3.4,606,BTM,Fast Food,900,No,No
+McDonald's,3.7,1908,MG Road,Biryani,800,Yes,No
+Meghana Foods,3.5,65,JP Nagar,South Indian,500,No,No
+Meghana Foods,3.8,561,Marathahalli,American,1400,Yes,Yes
+Empire Restaurant,4.8,2190,Jayanagar,Chinese,500,Yes,Yes
+Truffles,3.9,2334,Marathahalli,Chinese,900,Yes,Yes
+KFC,4.3,2034,BTM,Chinese,1200,Yes,No
+McDonald's,4.3,1347,BTM,Biryani,900,No,Yes
+Local Restaurant 1087,3.4,1115,Marathahalli,Italian,1200,No,Yes
+Local Restaurant 1088,3.7,1785,Indiranagar,North Indian,1200,Yes,Yes
+Local Restaurant 1089,4.6,1076,Jayanagar,Multi Cuisine,1200,No,Yes
+KFC,3.4,1378,Indiranagar,Italian,900,No,Yes
+Cafe Coffee Day,3.4,286,Marathahalli,Biryani,1000,Yes,No
+Meghana Foods,3.4,365,Banashankari,Cafe,1400,Yes,Yes
+Cafe Coffee Day,4.6,1779,Marathahalli,Biryani,600,Yes,No
+Truffles,3.5,1036,Indiranagar,North Indian,1000,Yes,No
+Pizza Hut,3.8,1669,JP Nagar,South Indian,500,No,No
+Local Restaurant 1096,3.8,674,Jayanagar,Cafe,800,No,No
+Pizza Hut,4.8,827,Whitefield,Multi Cuisine,800,Yes,Yes
+Meghana Foods,3.7,2439,Whitefield,American,400,Yes,No
+McDonald's,4.1,796,Indiranagar,Cafe,1000,Yes,Yes
+Meghana Foods,3.6,1853,HSR,South Indian,800,Yes,No
+Local Restaurant 1101,3.8,471,Whitefield,South Indian,400,No,No
+Pizza Hut,3.3,977,Koramangala,South Indian,600,No,No
+Meghana Foods,4.1,502,Jayanagar,Italian,1200,No,Yes
+Truffles,4.6,2247,HSR,Pizza,1400,No,No
+Subway,4.0,485,Jayanagar,Italian,1200,No,Yes
+Burger King,4.6,1868,Whitefield,Multi Cuisine,900,Yes,No
+Empire Restaurant,4.4,1207,Marathahalli,Chinese,600,No,No
+Pizza Hut,3.7,1128,BTM,American,900,Yes,Yes
+KFC,4.5,993,Jayanagar,North Indian,700,No,No
+Empire Restaurant,4.1,1622,Koramangala,Fast Food,400,No,No
+Subway,3.4,1908,Koramangala,Chinese,700,No,Yes
+McDonald's,3.6,502,HSR,South Indian,1200,No,No
+Local Restaurant 1113,4.4,2275,BTM,Cafe,700,Yes,Yes
+Local Restaurant 1114,4.2,325,Marathahalli,Multi Cuisine,1200,No,No
+Domino's Pizza,4.8,2419,Jayanagar,Pizza,900,Yes,No
+KFC,3.5,1485,Indiranagar,Italian,400,Yes,No
+Burger King,4.3,772,Koramangala,Biryani,1200,Yes,No
+Local Restaurant 1118,3.7,882,BTM,American,500,Yes,No
+Local Restaurant 1119,4.0,1632,Koramangala,Cafe,1400,No,No
+Local Restaurant 1120,4.8,599,Banashankari,Multi Cuisine,600,Yes,Yes
+Domino's Pizza,4.2,1699,Indiranagar,Multi Cuisine,800,No,Yes
+Local Restaurant 1122,3.6,874,Koramangala,Pizza,800,Yes,Yes
+Truffles,4.5,123,MG Road,Italian,1400,Yes,No
+Subway,4.8,1143,MG Road,Biryani,1400,Yes,No
+Burger King,3.9,1097,Marathahalli,Pizza,1000,No,Yes
+Local Restaurant 1126,3.7,1521,Indiranagar,Italian,1400,No,Yes
+Local Restaurant 1127,4.5,1600,Indiranagar,Multi Cuisine,700,Yes,No
+Local Restaurant 1128,4.5,913,JP Nagar,Biryani,400,No,No
+Truffles,4.3,597,Whitefield,Fast Food,600,Yes,No
+Meghana Foods,3.8,1202,HSR,Italian,1200,Yes,No
+Meghana Foods,4.8,567,JP Nagar,Cafe,800,No,No
+Empire Restaurant,4.7,112,MG Road,American,700,Yes,No
+Cafe Coffee Day,4.5,1326,Whitefield,American,400,Yes,No
+Burger King,4.3,540,Jayanagar,Multi Cuisine,700,Yes,No
+Local Restaurant 1135,4.8,2500,Jayanagar,Cafe,1200,Yes,No
+Domino's Pizza,3.2,2421,JP Nagar,Italian,400,Yes,No
+Local Restaurant 1137,4.0,1706,Whitefield,North Indian,800,No,Yes
+Pizza Hut,4.1,1992,Banashankari,Cafe,900,No,Yes
+Pizza Hut,3.5,476,HSR,Cafe,600,No,No
+Meghana Foods,4.2,1157,Whitefield,American,500,Yes,No
+McDonald's,3.5,1715,Marathahalli,Biryani,900,No,No
+KFC,4.1,1215,Banashankari,North Indian,800,No,Yes
+Local Restaurant 1143,4.8,759,JP Nagar,Biryani,1400,Yes,No
+Burger King,3.3,1161,Indiranagar,Pizza,700,Yes,No
+Truffles,3.7,488,Marathahalli,Fast Food,900,Yes,Yes
+McDonald's,3.7,1683,Marathahalli,Chinese,900,Yes,Yes
+Subway,4.3,1345,JP Nagar,South Indian,1200,Yes,No
+Local Restaurant 1148,4.0,389,Jayanagar,Chinese,400,Yes,Yes
+Cafe Coffee Day,3.9,305,MG Road,Chinese,900,No,Yes
+Empire Restaurant,4.8,2467,Indiranagar,Italian,600,Yes,Yes
+Local Restaurant 1151,4.4,1872,MG Road,Chinese,1200,Yes,Yes
+Local Restaurant 1152,4.9,925,Whitefield,North Indian,800,Yes,No
+Pizza Hut,4.4,999,Marathahalli,Multi Cuisine,400,No,No
+Truffles,4.5,643,Indiranagar,Pizza,1000,Yes,Yes
+Local Restaurant 1155,4.8,621,MG Road,Multi Cuisine,1400,No,Yes
+Domino's Pizza,4.0,529,Whitefield,Biryani,1400,Yes,Yes
+Local Restaurant 1157,3.9,2048,BTM,Pizza,400,No,No
+Local Restaurant 1158,4.1,953,Marathahalli,South Indian,1400,No,Yes
+McDonald's,4.1,100,Jayanagar,Fast Food,1400,No,Yes
+Pizza Hut,3.2,1408,JP Nagar,Multi Cuisine,1000,Yes,No
+Burger King,4.0,421,Banashankari,Multi Cuisine,1000,No,No
+Pizza Hut,4.5,2118,MG Road,Pizza,600,No,No
+Burger King,3.7,809,Jayanagar,American,1400,Yes,No
+Meghana Foods,3.3,694,BTM,Biryani,900,No,No
+Cafe Coffee Day,4.1,1004,Marathahalli,Multi Cuisine,400,Yes,Yes
+McDonald's,4.0,1488,HSR,Biryani,1400,Yes,Yes
+Meghana Foods,4.2,2135,Indiranagar,Biryani,1400,No,No
+Domino's Pizza,4.5,1585,JP Nagar,Pizza,700,No,No
+Subway,4.7,2301,JP Nagar,Cafe,1400,Yes,No
+Pizza Hut,3.6,811,BTM,Biryani,500,Yes,Yes
+Domino's Pizza,3.6,598,Whitefield,Chinese,600,Yes,No
+Local Restaurant 1172,3.9,584,Jayanagar,Italian,500,Yes,No
+Local Restaurant 1173,4.0,2098,Koramangala,North Indian,1400,Yes,Yes
+Subway,4.1,1198,Jayanagar,Multi Cuisine,800,Yes,No
+Truffles,3.3,950,Whitefield,Chinese,600,No,No
+Local Restaurant 1176,4.4,2308,Whitefield,American,1400,Yes,No
+Local Restaurant 1177,4.1,79,Marathahalli,Cafe,800,No,Yes
+Cafe Coffee Day,3.9,784,MG Road,North Indian,700,Yes,No
+McDonald's,3.5,232,Indiranagar,South Indian,700,No,No
+Burger King,4.4,2218,Koramangala,Fast Food,1200,Yes,No
+Domino's Pizza,3.4,221,Indiranagar,Italian,400,No,Yes
+Local Restaurant 1182,4.2,1542,JP Nagar,Multi Cuisine,400,Yes,Yes
+Meghana Foods,4.1,714,Banashankari,Cafe,800,Yes,Yes
+Local Restaurant 1184,3.4,1308,Koramangala,Biryani,900,No,Yes
+Local Restaurant 1185,3.7,824,Jayanagar,Italian,500,Yes,Yes
+KFC,3.7,1480,HSR,Multi Cuisine,1200,Yes,No
+McDonald's,3.8,479,Jayanagar,Multi Cuisine,1000,Yes,Yes
+McDonald's,3.9,837,JP Nagar,Pizza,400,No,No
+Subway,4.4,766,BTM,Multi Cuisine,1000,No,No
+Pizza Hut,4.6,2199,Jayanagar,Fast Food,1400,Yes,Yes
+KFC,3.6,904,Koramangala,Cafe,700,No,Yes
+Empire Restaurant,3.2,1987,Koramangala,Fast Food,600,Yes,Yes
+Local Restaurant 1193,3.5,2385,Banashankari,Fast Food,700,Yes,No
+Domino's Pizza,3.8,591,HSR,South Indian,700,Yes,Yes
+Pizza Hut,4.0,966,Banashankari,Chinese,1400,Yes,No
+Pizza Hut,3.7,1956,BTM,Italian,900,No,No
+Local Restaurant 1197,3.3,1083,Koramangala,Chinese,800,Yes,No
+McDonald's,3.4,2202,BTM,American,600,No,No
+Local Restaurant 1199,3.8,756,Koramangala,American,1000,Yes,No
+Domino's Pizza,4.5,1954,Whitefield,South Indian,800,Yes,Yes
+McDonald's,4.0,1567,Banashankari,Multi Cuisine,1400,Yes,Yes
+Subway,4.1,1567,Whitefield,North Indian,1400,Yes,No
+Pizza Hut,4.3,2065,BTM,Cafe,900,Yes,Yes
+KFC,3.9,2050,BTM,Italian,500,Yes,Yes
+Local Restaurant 1205,4.4,243,Banashankari,American,700,No,Yes
+Meghana Foods,4.3,1501,BTM,Fast Food,900,Yes,No
+Local Restaurant 1207,3.3,1130,BTM,Italian,1000,No,Yes
+Subway,4.7,628,MG Road,Italian,1000,No,No
+Meghana Foods,3.7,2059,Indiranagar,Italian,1000,No,No
+McDonald's,3.3,892,Koramangala,Multi Cuisine,900,No,Yes
+Truffles,4.3,1365,Indiranagar,Chinese,800,No,Yes
+Truffles,3.9,840,HSR,Fast Food,600,Yes,Yes
+Truffles,4.6,1016,Indiranagar,Biryani,900,Yes,Yes
+McDonald's,4.3,1029,MG Road,Multi Cuisine,500,Yes,No
+Local Restaurant 1215,4.8,78,Jayanagar,Pizza,500,Yes,No
+Truffles,4.0,1261,JP Nagar,North Indian,600,No,Yes
+Empire Restaurant,4.2,1398,Whitefield,American,400,Yes,No
+Pizza Hut,4.2,1751,HSR,Multi Cuisine,800,Yes,No
+KFC,3.3,132,MG Road,North Indian,900,Yes,Yes
+KFC,4.1,663,MG Road,South Indian,800,Yes,Yes
+McDonald's,3.4,1958,HSR,South Indian,600,No,Yes
+Pizza Hut,3.9,137,Koramangala,Chinese,800,No,No
+Burger King,3.4,648,JP Nagar,Fast Food,1400,No,No
+Subway,3.9,307,MG Road,Fast Food,500,Yes,No
+Empire Restaurant,3.4,746,Marathahalli,Biryani,700,No,Yes
+Cafe Coffee Day,4.7,1490,BTM,American,1400,Yes,No
+Local Restaurant 1227,4.5,2191,Marathahalli,North Indian,1400,No,Yes
+Local Restaurant 1228,4.3,1248,Whitefield,American,1200,No,No
+Truffles,4.4,1921,Jayanagar,American,700,No,Yes
+Subway,4.3,1475,Banashankari,American,400,Yes,Yes
+Local Restaurant 1231,3.8,203,Indiranagar,Fast Food,1000,Yes,No
+Truffles,3.2,1780,Koramangala,American,1200,Yes,No
+Subway,4.2,1506,Whitefield,Biryani,1200,No,Yes
+Subway,4.3,2017,Jayanagar,Cafe,800,Yes,No
+McDonald's,3.7,1367,MG Road,Chinese,1400,No,No
+Local Restaurant 1236,3.7,424,MG Road,Italian,700,Yes,Yes
+Empire Restaurant,3.6,1918,MG Road,Fast Food,1000,Yes,Yes
+Local Restaurant 1238,3.8,962,BTM,Fast Food,1200,No,Yes
+Subway,4.7,788,BTM,Italian,1000,No,Yes
+Local Restaurant 1240,3.3,1037,MG Road,Chinese,700,No,Yes
+KFC,4.7,1659,Jayanagar,Cafe,1200,Yes,No
+Local Restaurant 1242,4.3,1969,Koramangala,Chinese,900,No,No
+Subway,4.4,1257,MG Road,Multi Cuisine,400,Yes,No
+Truffles,4.2,1427,Banashankari,American,600,Yes,Yes
+Pizza Hut,3.6,771,MG Road,Pizza,500,Yes,No
+Empire Restaurant,4.9,2150,JP Nagar,Cafe,400,Yes,No
+Local Restaurant 1247,3.4,159,JP Nagar,North Indian,400,Yes,No
+Local Restaurant 1248,3.8,420,BTM,Fast Food,800,Yes,Yes
+Local Restaurant 1249,3.4,333,MG Road,Italian,700,No,Yes
+Cafe Coffee Day,4.4,1908,Koramangala,Multi Cuisine,800,No,No
+Empire Restaurant,4.9,2448,Banashankari,North Indian,600,Yes,No
+Local Restaurant 1252,3.4,1290,BTM,Biryani,800,No,No
+Cafe Coffee Day,4.1,1725,HSR,Italian,1200,Yes,Yes
+McDonald's,3.8,1555,Marathahalli,Pizza,500,Yes,Yes
+KFC,3.5,367,Whitefield,Italian,400,No,Yes
+Local Restaurant 1256,4.3,52,Marathahalli,Pizza,1200,Yes,No
+Burger King,4.6,235,MG Road,Biryani,800,No,No
+KFC,4.8,2213,BTM,Italian,1000,Yes,No
+KFC,3.4,1159,Whitefield,Fast Food,400,No,No
+Subway,3.8,1942,MG Road,American,900,Yes,Yes
+Cafe Coffee Day,4.3,242,MG Road,Cafe,900,Yes,No
+Domino's Pizza,3.4,2486,Jayanagar,American,400,Yes,No
+McDonald's,3.5,511,Indiranagar,Fast Food,1400,No,No
+KFC,3.3,345,BTM,North Indian,1000,No,No
+Domino's Pizza,4.1,1879,MG Road,Chinese,900,Yes,Yes
+Pizza Hut,4.6,2024,Jayanagar,Biryani,800,No,Yes
+Burger King,3.6,2445,Banashankari,Fast Food,600,No,No
+Empire Restaurant,3.3,2041,BTM,Pizza,600,Yes,No
+Empire Restaurant,3.9,1179,MG Road,Biryani,400,No,No
+McDonald's,4.0,146,Koramangala,Multi Cuisine,700,No,Yes
+Local Restaurant 1271,3.6,1298,MG Road,Fast Food,500,No,No
+Pizza Hut,4.6,2189,Whitefield,American,500,No,Yes
+Burger King,3.3,1239,HSR,Biryani,600,No,No
+McDonald's,4.2,1381,BTM,American,600,No,No
+Cafe Coffee Day,4.1,2010,Marathahalli,Cafe,900,No,Yes
+Local Restaurant 1276,4.6,1764,JP Nagar,Cafe,700,Yes,Yes
+Empire Restaurant,4.3,1103,Marathahalli,Fast Food,1000,Yes,Yes
+McDonald's,4.5,1179,Koramangala,North Indian,700,Yes,Yes
+Truffles,4.2,1139,Indiranagar,Chinese,600,Yes,No
+Meghana Foods,4.5,787,Whitefield,Chinese,1200,Yes,No
+Cafe Coffee Day,3.8,1353,Koramangala,North Indian,600,No,No
+KFC,3.7,701,Jayanagar,Italian,1200,Yes,No
+Truffles,3.9,1172,Banashankari,Multi Cuisine,600,No,Yes
+Truffles,4.6,1045,Marathahalli,American,900,No,Yes
+Meghana Foods,3.6,118,JP Nagar,Multi Cuisine,1200,Yes,No
+Truffles,3.7,1529,BTM,Cafe,800,No,No
+KFC,3.7,911,Koramangala,Biryani,1200,Yes,Yes
+McDonald's,4.6,2202,Indiranagar,Chinese,1400,No,Yes
+Meghana Foods,4.7,1757,Indiranagar,Cafe,400,Yes,Yes
+Domino's Pizza,3.2,2230,HSR,South Indian,600,Yes,No
+Domino's Pizza,4.6,2376,Koramangala,Fast Food,1000,No,Yes
+McDonald's,3.5,2216,HSR,Chinese,900,No,Yes
+Subway,4.0,383,Banashankari,Multi Cuisine,700,Yes,Yes
+Meghana Foods,3.6,1705,Jayanagar,Italian,500,Yes,Yes
+Empire Restaurant,4.7,2269,JP Nagar,Multi Cuisine,400,Yes,Yes
+Pizza Hut,4.9,75,HSR,American,400,No,No
+Burger King,3.3,2345,JP Nagar,Multi Cuisine,400,Yes,Yes
+Meghana Foods,4.8,1684,Jayanagar,Fast Food,1400,No,No
+McDonald's,3.7,1195,BTM,Pizza,600,No,Yes
+Local Restaurant 1300,3.2,284,BTM,Cafe,600,No,Yes
+Empire Restaurant,4.8,56,MG Road,Chinese,1000,Yes,Yes
+Empire Restaurant,3.4,448,Whitefield,Italian,1200,Yes,Yes
+Domino's Pizza,4.5,282,Koramangala,Biryani,1200,No,No
+KFC,3.8,542,Jayanagar,American,400,Yes,Yes
+Subway,3.8,1701,Indiranagar,Fast Food,800,Yes,No
+Local Restaurant 1306,4.1,1099,BTM,South Indian,1400,No,Yes
+Burger King,4.1,1829,HSR,South Indian,1400,Yes,No
+Local Restaurant 1308,3.7,715,HSR,Chinese,1000,No,Yes
+KFC,3.3,620,Whitefield,Italian,900,No,No
+Empire Restaurant,3.7,2447,JP Nagar,Biryani,900,Yes,Yes
+Local Restaurant 1311,4.2,1387,BTM,Italian,400,No,No
+Subway,4.2,180,JP Nagar,Biryani,1200,Yes,Yes
+Domino's Pizza,4.4,1375,Indiranagar,Fast Food,800,Yes,No
+Burger King,4.8,951,MG Road,Cafe,1400,No,No
+McDonald's,4.0,735,MG Road,Chinese,900,Yes,No
+Local Restaurant 1316,4.0,2181,Indiranagar,Italian,500,Yes,Yes
+Meghana Foods,4.9,1641,Whitefield,North Indian,500,No,Yes
+KFC,3.8,1445,Koramangala,Cafe,600,No,Yes
+Cafe Coffee Day,3.5,432,Indiranagar,Cafe,1400,No,No
+Local Restaurant 1320,3.9,1806,MG Road,Italian,800,Yes,No
+Burger King,4.8,432,MG Road,North Indian,1000,Yes,No
+Empire Restaurant,4.3,402,HSR,Multi Cuisine,600,Yes,Yes
+KFC,4.8,1285,Koramangala,Biryani,1400,No,Yes
+Domino's Pizza,3.5,2396,Marathahalli,American,1200,No,Yes
+Domino's Pizza,3.8,2080,Jayanagar,Cafe,400,No,Yes
+Cafe Coffee Day,3.6,480,Marathahalli,North Indian,600,Yes,Yes
+Empire Restaurant,4.8,1624,MG Road,Multi Cuisine,600,Yes,No
+Local Restaurant 1328,3.9,1120,Jayanagar,Fast Food,1400,No,Yes
+Local Restaurant 1329,4.0,1448,Banashankari,Italian,600,Yes,Yes
+Cafe Coffee Day,3.4,229,Indiranagar,South Indian,400,Yes,No
+Pizza Hut,4.5,385,Banashankari,North Indian,400,No,Yes
+Meghana Foods,3.7,2224,Banashankari,Pizza,1000,No,Yes
+Truffles,4.3,793,Koramangala,Italian,600,Yes,Yes
+Truffles,4.1,1276,MG Road,North Indian,1000,No,Yes
+Local Restaurant 1335,4.3,1089,HSR,North Indian,900,Yes,Yes
+Cafe Coffee Day,4.5,1270,MG Road,American,700,Yes,No
+Local Restaurant 1337,3.2,1543,Indiranagar,South Indian,700,No,No
+Burger King,4.4,1808,Indiranagar,Chinese,800,Yes,No
+Local Restaurant 1339,4.8,1179,Marathahalli,Multi Cuisine,1400,Yes,Yes
+KFC,4.5,1144,Whitefield,North Indian,1200,No,Yes
+Local Restaurant 1341,3.9,205,BTM,Pizza,1200,No,Yes
+KFC,3.9,732,Indiranagar,American,1000,No,Yes
+Domino's Pizza,4.8,162,Banashankari,Multi Cuisine,600,No,No
+Subway,4.5,729,HSR,South Indian,1000,Yes,No
+McDonald's,3.9,1600,HSR,Fast Food,600,Yes,Yes
+Empire Restaurant,3.3,1753,Koramangala,South Indian,1400,Yes,No
+Subway,4.7,1460,Whitefield,Chinese,700,No,Yes
+Domino's Pizza,3.3,478,Koramangala,North Indian,900,No,Yes
+Cafe Coffee Day,4.7,1094,HSR,Chinese,1400,No,No
+Domino's Pizza,4.4,1198,Banashankari,Chinese,1200,No,Yes
+Local Restaurant 1351,4.3,2398,BTM,Chinese,800,No,Yes
+Pizza Hut,4.0,1726,BTM,Cafe,800,No,No
+Domino's Pizza,3.2,960,Indiranagar,Fast Food,1000,Yes,Yes
+Empire Restaurant,3.3,995,Whitefield,Pizza,700,No,Yes
+Truffles,4.9,432,BTM,Pizza,700,Yes,Yes
+Truffles,3.6,439,Indiranagar,Fast Food,900,Yes,Yes
+Meghana Foods,4.0,2022,HSR,Cafe,700,Yes,No
+Pizza Hut,4.6,2344,MG Road,Cafe,1200,No,No
+Subway,4.5,449,HSR,Multi Cuisine,500,Yes,No
+KFC,3.9,2378,Koramangala,Biryani,1200,No,Yes
+Local Restaurant 1361,4.1,363,Jayanagar,Multi Cuisine,1000,Yes,No
+Cafe Coffee Day,4.5,2218,Indiranagar,Chinese,1400,Yes,Yes
+Local Restaurant 1363,4.5,2373,Jayanagar,Fast Food,1400,No,No
+Cafe Coffee Day,3.5,1460,Koramangala,Cafe,700,Yes,No
+Subway,4.3,2023,Banashankari,Biryani,700,No,Yes
+McDonald's,3.8,1403,HSR,American,500,No,No
+KFC,4.7,272,Banashankari,American,800,Yes,Yes
+Empire Restaurant,4.7,557,Koramangala,South Indian,900,Yes,Yes
+Empire Restaurant,4.5,733,HSR,Italian,900,Yes,Yes
+Local Restaurant 1370,4.5,1823,HSR,American,400,No,Yes
+Pizza Hut,4.7,596,MG Road,Biryani,900,Yes,Yes
+Local Restaurant 1372,4.5,323,Banashankari,South Indian,1400,Yes,No
+Empire Restaurant,4.4,1252,Jayanagar,Cafe,800,No,No
+Domino's Pizza,4.8,400,Koramangala,Multi Cuisine,1400,Yes,Yes
+Subway,4.6,2365,BTM,Fast Food,700,Yes,No
+Meghana Foods,4.3,1065,HSR,South Indian,600,No,Yes
+Empire Restaurant,3.4,2449,Marathahalli,Fast Food,1000,Yes,No
+Meghana Foods,4.3,808,Banashankari,Cafe,1200,No,Yes
+Meghana Foods,4.6,404,BTM,Chinese,1400,No,No
+Truffles,4.0,618,Banashankari,Italian,1200,No,Yes
+Local Restaurant 1381,3.6,831,JP Nagar,Cafe,700,No,No
+Burger King,3.2,1145,Whitefield,North Indian,700,No,Yes
+Cafe Coffee Day,4.3,117,MG Road,Multi Cuisine,1400,Yes,No
+Subway,3.5,758,Banashankari,Cafe,600,No,Yes
+Local Restaurant 1385,4.4,157,HSR,Chinese,600,Yes,No
+Subway,4.7,2033,Koramangala,American,1400,Yes,No
+Subway,3.6,1479,MG Road,Italian,600,Yes,Yes
+Local Restaurant 1388,4.4,1944,BTM,Italian,1000,Yes,No
+Meghana Foods,4.4,435,HSR,Biryani,500,Yes,Yes
+Subway,4.6,206,MG Road,Italian,800,No,Yes
+Cafe Coffee Day,3.2,236,JP Nagar,North Indian,500,No,No
+Truffles,3.5,2478,HSR,Fast Food,800,Yes,No
+Meghana Foods,4.0,1774,HSR,Italian,800,No,Yes
+Subway,3.5,691,Koramangala,American,1000,Yes,Yes
+Subway,4.3,318,HSR,Multi Cuisine,500,No,Yes
+Local Restaurant 1396,4.0,1561,BTM,Pizza,500,No,Yes
+Local Restaurant 1397,4.5,801,Banashankari,North Indian,400,Yes,Yes
+Burger King,4.2,1403,Jayanagar,Fast Food,600,Yes,Yes
+Meghana Foods,3.7,1811,Whitefield,Pizza,400,No,Yes
+Local Restaurant 1400,4.9,935,Jayanagar,Multi Cuisine,700,Yes,Yes
+McDonald's,4.9,2432,Whitefield,Fast Food,700,No,No
+Truffles,4.8,447,Banashankari,Biryani,700,No,No
+Burger King,4.4,927,BTM,North Indian,1000,Yes,No
+Meghana Foods,4.0,1803,Jayanagar,Biryani,700,Yes,No
+Local Restaurant 1405,4.6,657,BTM,Multi Cuisine,800,No,No
+Local Restaurant 1406,3.3,1312,MG Road,Cafe,400,Yes,No
+Truffles,4.3,1305,Banashankari,Fast Food,1000,Yes,No
+Truffles,4.4,2405,BTM,Multi Cuisine,800,No,No
+McDonald's,4.3,851,HSR,Fast Food,700,Yes,Yes
+McDonald's,3.3,2353,Indiranagar,Fast Food,1400,No,Yes
+Domino's Pizza,4.5,1098,MG Road,Multi Cuisine,500,Yes,Yes
+Local Restaurant 1412,4.4,1957,BTM,Fast Food,1000,Yes,Yes
+Subway,3.8,416,Banashankari,Biryani,400,Yes,Yes
+Local Restaurant 1414,3.4,402,Marathahalli,Fast Food,400,No,Yes
+Pizza Hut,3.8,1178,BTM,Pizza,700,Yes,Yes
+Truffles,3.4,598,MG Road,Fast Food,700,Yes,Yes
+McDonald's,4.5,1187,JP Nagar,American,600,No,No
+Local Restaurant 1418,4.2,66,HSR,Fast Food,1200,Yes,No
+Cafe Coffee Day,4.7,1805,Indiranagar,Chinese,400,Yes,Yes
+Domino's Pizza,3.7,2027,Whitefield,Pizza,900,No,Yes
+Local Restaurant 1421,4.6,731,Marathahalli,Fast Food,800,No,No
+Meghana Foods,4.5,2023,Whitefield,Biryani,1200,Yes,No
+Burger King,3.9,114,BTM,Italian,400,Yes,Yes
+Cafe Coffee Day,3.9,1681,Whitefield,South Indian,1200,Yes,No
+Domino's Pizza,3.5,2025,HSR,Fast Food,1200,Yes,No
+Burger King,3.8,2480,Banashankari,Cafe,500,No,No
+KFC,4.5,59,Whitefield,Fast Food,500,Yes,Yes
+Domino's Pizza,4.7,111,Banashankari,Multi Cuisine,500,No,Yes
+Domino's Pizza,4.8,899,Whitefield,American,400,Yes,No
+Local Restaurant 1430,3.3,425,BTM,Chinese,900,Yes,Yes
+Cafe Coffee Day,3.9,2299,Jayanagar,South Indian,1000,No,Yes
+McDonald's,4.1,356,JP Nagar,Cafe,600,No,No
+Local Restaurant 1433,4.0,985,Marathahalli,Italian,600,No,No
+Cafe Coffee Day,3.7,427,MG Road,South Indian,500,No,Yes
+Empire Restaurant,3.4,1175,Banashankari,Italian,1400,Yes,No
+Local Restaurant 1436,3.8,2458,Whitefield,Fast Food,400,Yes,No
+Burger King,4.8,311,Whitefield,South Indian,700,Yes,Yes
+Pizza Hut,3.2,990,Banashankari,Biryani,400,Yes,Yes
+Subway,3.9,638,JP Nagar,Cafe,1200,Yes,No
+Domino's Pizza,3.3,221,Whitefield,South Indian,800,Yes,No
+Local Restaurant 1441,4.3,73,Whitefield,Italian,900,Yes,No
+Local Restaurant 1442,3.5,394,MG Road,Italian,1200,Yes,No
+Cafe Coffee Day,4.1,2345,Koramangala,Fast Food,900,No,No
+Burger King,4.1,1764,Koramangala,North Indian,1200,Yes,Yes
+Local Restaurant 1445,4.8,470,Marathahalli,Cafe,600,No,Yes
+Pizza Hut,3.4,1369,Banashankari,Cafe,1000,Yes,No
+Burger King,4.8,2481,Whitefield,Multi Cuisine,1200,Yes,Yes
+Local Restaurant 1448,3.8,1584,HSR,Fast Food,400,Yes,Yes
+KFC,4.7,164,HSR,Fast Food,800,Yes,No
+McDonald's,4.6,1283,HSR,Pizza,1000,No,No
+Empire Restaurant,3.6,1622,Whitefield,Chinese,400,Yes,No
+Local Restaurant 1452,3.6,235,Indiranagar,Multi Cuisine,700,Yes,Yes
+Cafe Coffee Day,4.8,1475,Banashankari,American,400,No,Yes
+Cafe Coffee Day,3.7,1701,BTM,Pizza,500,No,No
+Cafe Coffee Day,4.8,2095,Indiranagar,South Indian,700,Yes,Yes
+McDonald's,4.5,680,Whitefield,Italian,900,No,No
+KFC,3.4,90,MG Road,Pizza,1200,No,Yes
+Empire Restaurant,3.5,2038,HSR,Fast Food,400,No,No
+Pizza Hut,3.4,2006,Jayanagar,Italian,1200,Yes,Yes
+Subway,3.7,1936,BTM,Italian,1200,No,Yes
+Pizza Hut,4.2,843,JP Nagar,Cafe,1000,No,No
+McDonald's,3.9,720,Koramangala,Italian,1000,No,Yes
+Truffles,3.4,496,JP Nagar,Multi Cuisine,400,No,Yes
+Domino's Pizza,4.6,2157,Indiranagar,South Indian,400,No,No
+Meghana Foods,4.3,2181,Jayanagar,North Indian,600,No,No
+KFC,4.3,1827,BTM,Multi Cuisine,700,No,No
+Local Restaurant 1467,4.4,2271,JP Nagar,Biryani,1400,Yes,Yes
+Truffles,3.6,756,BTM,Fast Food,1200,Yes,Yes
+Local Restaurant 1469,4.0,1766,Jayanagar,Multi Cuisine,800,No,No
+Local Restaurant 1470,4.1,717,Whitefield,Pizza,900,Yes,No
+Burger King,3.6,2029,Indiranagar,Multi Cuisine,800,Yes,No
+KFC,4.7,1989,Whitefield,North Indian,700,No,No
+Local Restaurant 1473,3.2,1686,Marathahalli,Pizza,800,No,No
+McDonald's,4.2,153,Whitefield,North Indian,500,No,No
+Local Restaurant 1475,4.1,1684,Marathahalli,Multi Cuisine,400,Yes,No
+Local Restaurant 1476,3.8,1873,MG Road,Biryani,600,Yes,Yes
+Local Restaurant 1477,3.8,193,Jayanagar,Fast Food,900,Yes,Yes
+Local Restaurant 1478,3.9,2408,Banashankari,Biryani,900,No,No
+McDonald's,3.7,1004,Marathahalli,Multi Cuisine,700,Yes,Yes
+Meghana Foods,4.9,688,Banashankari,American,500,No,No
+Local Restaurant 1481,3.3,1661,Banashankari,Biryani,800,Yes,No
+Truffles,4.3,479,Indiranagar,Biryani,1000,No,Yes
+Empire Restaurant,3.3,1346,Koramangala,North Indian,400,Yes,No
+Local Restaurant 1484,4.8,2235,Jayanagar,North Indian,1400,No,Yes
+McDonald's,3.5,345,Marathahalli,American,500,No,No
+Truffles,3.8,1871,HSR,American,800,No,Yes
+Cafe Coffee Day,3.7,2096,Koramangala,Pizza,700,No,No
+Burger King,4.1,1019,Jayanagar,American,800,Yes,No
+Cafe Coffee Day,4.0,1177,Indiranagar,Biryani,400,No,No
+Truffles,4.3,1760,BTM,South Indian,600,No,No
+Subway,3.8,2419,JP Nagar,Italian,400,No,No
+KFC,4.3,2373,Indiranagar,Cafe,400,No,No
+Pizza Hut,3.2,1349,Indiranagar,Multi Cuisine,900,No,Yes
+Meghana Foods,3.7,1822,Indiranagar,American,1200,Yes,No
+Meghana Foods,4.4,2088,MG Road,Italian,1400,No,No
+KFC,4.5,1211,JP Nagar,Cafe,1000,No,No
+Meghana Foods,4.6,2481,Jayanagar,American,600,Yes,Yes
+McDonald's,3.7,1364,Koramangala,Italian,400,No,No
+Local Restaurant 1499,4.6,870,Koramangala,Fast Food,500,No,Yes
+Local Restaurant 1500,3.9,749,Koramangala,Fast Food,400,Yes,No
+Burger King,4.7,626,Koramangala,American,900,No,Yes
+KFC,3.5,1112,JP Nagar,Multi Cuisine,400,No,Yes
+Truffles,3.3,2100,Marathahalli,Chinese,600,Yes,No
+Pizza Hut,3.8,2276,Indiranagar,North Indian,1000,Yes,Yes
+KFC,4.7,2468,MG Road,North Indian,1200,Yes,No
+Cafe Coffee Day,3.8,723,Banashankari,North Indian,900,Yes,Yes
+McDonald's,4.6,241,Jayanagar,Cafe,1200,Yes,Yes
+Subway,4.3,2201,Whitefield,North Indian,1200,No,No
+Cafe Coffee Day,4.2,1256,Marathahalli,Multi Cuisine,600,No,Yes
+Local Restaurant 1510,4.0,1268,MG Road,North Indian,600,No,Yes
+Subway,3.3,1775,MG Road,Cafe,500,No,Yes
+Burger King,4.0,1911,BTM,South Indian,500,Yes,No
+Burger King,3.9,768,Banashankari,Fast Food,1400,No,Yes
+Local Restaurant 1514,4.8,900,Jayanagar,Biryani,400,Yes,Yes
+McDonald's,4.2,1767,Jayanagar,Biryani,700,No,No
+Domino's Pizza,3.9,932,Banashankari,North Indian,600,Yes,Yes
+Pizza Hut,4.6,1393,JP Nagar,Italian,1400,Yes,Yes
+Local Restaurant 1518,4.3,1045,JP Nagar,Italian,400,No,No
+Local Restaurant 1519,4.0,129,Koramangala,Chinese,600,No,No
+Local Restaurant 1520,4.9,1820,MG Road,North Indian,900,No,No
+Cafe Coffee Day,4.1,116,Whitefield,American,1200,No,No
+Domino's Pizza,3.8,1306,Indiranagar,American,500,No,Yes
+KFC,4.0,1063,Whitefield,Chinese,1000,Yes,No
+Truffles,3.9,2283,BTM,Biryani,1200,Yes,Yes
+Cafe Coffee Day,4.4,2097,HSR,Fast Food,800,Yes,No
+Local Restaurant 1526,4.0,1020,Marathahalli,American,800,No,Yes
+Subway,4.2,1387,MG Road,North Indian,600,No,No
+KFC,3.5,1973,MG Road,Fast Food,1400,No,Yes
+Empire Restaurant,4.8,1753,MG Road,South Indian,500,Yes,No
+McDonald's,3.5,771,MG Road,Fast Food,1400,No,Yes
+Domino's Pizza,3.8,1473,BTM,Italian,900,No,No
+Truffles,4.7,544,Indiranagar,Multi Cuisine,600,Yes,No
+Truffles,3.7,606,Whitefield,North Indian,600,No,Yes
+Pizza Hut,4.1,2182,Jayanagar,Pizza,500,Yes,No
+Cafe Coffee Day,3.3,1540,HSR,South Indian,1000,Yes,No
+Empire Restaurant,4.1,1919,BTM,Pizza,900,No,Yes
+Subway,4.8,2123,BTM,South Indian,600,No,No
+McDonald's,4.6,1273,Banashankari,Pizza,700,No,Yes
+Local Restaurant 1539,4.3,1873,HSR,Biryani,700,Yes,No
+Local Restaurant 1540,4.8,340,Jayanagar,American,1400,Yes,No
+Local Restaurant 1541,3.8,2111,MG Road,Multi Cuisine,700,No,No
+Subway,4.3,549,HSR,Multi Cuisine,1400,No,Yes
+Domino's Pizza,4.0,945,Koramangala,Fast Food,400,Yes,Yes
+KFC,3.4,2118,Banashankari,Chinese,1400,Yes,No
+Local Restaurant 1545,3.9,177,Jayanagar,Biryani,900,Yes,No
+Empire Restaurant,3.5,362,Indiranagar,Pizza,400,Yes,Yes
+Local Restaurant 1547,4.2,1582,Marathahalli,South Indian,900,No,Yes
+KFC,4.4,1259,Whitefield,Cafe,600,No,No
+McDonald's,4.7,2249,Jayanagar,Fast Food,900,No,No
+McDonald's,4.4,1991,MG Road,Cafe,700,Yes,No
+KFC,4.2,662,Indiranagar,Cafe,1000,Yes,Yes
+Domino's Pizza,3.2,189,Jayanagar,American,600,No,Yes
+Pizza Hut,4.3,268,MG Road,South Indian,1000,No,Yes
+Meghana Foods,3.7,693,JP Nagar,Multi Cuisine,1200,Yes,Yes
+Burger King,4.3,2107,Whitefield,South Indian,800,Yes,No
+Pizza Hut,3.2,1663,Koramangala,South Indian,700,No,Yes
+Cafe Coffee Day,4.0,402,Marathahalli,Pizza,1000,Yes,Yes
+Burger King,4.1,1452,Whitefield,Italian,1400,Yes,No
+Cafe Coffee Day,4.3,602,Marathahalli,Chinese,1200,No,No
+Local Restaurant 1560,3.7,1420,HSR,North Indian,1400,Yes,Yes
+Local Restaurant 1561,3.5,1903,Indiranagar,Multi Cuisine,1200,Yes,Yes
+Empire Restaurant,3.8,2488,JP Nagar,Biryani,1200,Yes,Yes
+KFC,3.6,1096,Indiranagar,Cafe,500,Yes,No
+Local Restaurant 1564,4.3,1817,Banashankari,North Indian,800,Yes,No
+Truffles,4.6,1379,BTM,Fast Food,1000,Yes,No
+Burger King,4.3,1522,Whitefield,Cafe,1000,No,No
+Local Restaurant 1567,3.4,1325,Koramangala,Fast Food,1000,No,No
+Subway,3.4,583,Banashankari,Chinese,900,Yes,No
+Pizza Hut,3.7,1496,JP Nagar,American,400,Yes,No
+Burger King,4.4,1507,MG Road,American,800,No,No
+Local Restaurant 1571,4.3,1829,MG Road,American,700,Yes,Yes
+Local Restaurant 1572,3.9,233,MG Road,Italian,600,No,Yes
+Subway,3.8,2198,BTM,Cafe,1200,No,No
+Pizza Hut,3.5,1755,MG Road,Italian,600,No,Yes
+KFC,4.7,1611,BTM,South Indian,1000,No,No
+Burger King,3.9,1514,BTM,Cafe,800,No,Yes
+Truffles,3.2,1939,Indiranagar,Pizza,900,Yes,No
+Domino's Pizza,3.5,572,Indiranagar,American,700,No,No
+Burger King,4.1,1767,Koramangala,Italian,700,Yes,No
+Local Restaurant 1580,3.9,813,HSR,American,1000,Yes,No
+McDonald's,4.4,106,BTM,Italian,800,Yes,No
+Cafe Coffee Day,3.9,1906,Indiranagar,Italian,400,No,Yes
+Pizza Hut,3.9,881,Jayanagar,Pizza,500,Yes,Yes
+Subway,3.9,344,MG Road,Cafe,500,No,Yes
+Truffles,3.3,1187,MG Road,Cafe,400,No,No
+Meghana Foods,4.2,2306,BTM,American,500,No,No
+Local Restaurant 1587,4.8,2010,HSR,Fast Food,1400,Yes,Yes
+Domino's Pizza,4.6,1397,HSR,American,1000,Yes,Yes
+Cafe Coffee Day,4.9,2179,Koramangala,Chinese,400,Yes,No
+KFC,3.4,1599,BTM,Fast Food,1200,No,No
+Truffles,4.2,1299,BTM,Cafe,600,No,No
+KFC,3.3,966,MG Road,Chinese,500,No,Yes
+Cafe Coffee Day,4.8,1776,Jayanagar,Pizza,500,No,Yes
+Subway,3.6,1644,Marathahalli,Pizza,400,No,No
+Burger King,3.4,516,BTM,Biryani,1000,No,Yes
+Meghana Foods,3.4,2015,Koramangala,Cafe,600,No,No
+KFC,3.7,1988,BTM,Cafe,600,No,No
+Domino's Pizza,4.7,1329,Jayanagar,Italian,600,Yes,No
+Empire Restaurant,3.6,305,JP Nagar,Cafe,800,Yes,No
+Local Restaurant 1600,3.7,1589,Whitefield,Biryani,1200,Yes,No
+Burger King,3.7,1869,Jayanagar,Pizza,1400,Yes,No
+Meghana Foods,4.8,2282,BTM,Chinese,700,Yes,Yes
+Truffles,3.4,888,Whitefield,American,500,No,Yes
+Local Restaurant 1604,3.8,1669,HSR,American,800,No,No
+Truffles,4.6,1642,Whitefield,American,700,No,Yes
+Domino's Pizza,4.2,485,Whitefield,South Indian,1000,No,No
+Local Restaurant 1607,4.0,2429,JP Nagar,American,400,No,Yes
+Pizza Hut,4.8,944,Jayanagar,Cafe,1000,Yes,No
+KFC,4.0,126,Marathahalli,Multi Cuisine,800,Yes,Yes
+Local Restaurant 1610,4.8,2186,MG Road,Multi Cuisine,600,Yes,No
+Empire Restaurant,4.3,2259,HSR,Fast Food,800,No,Yes
+Local Restaurant 1612,4.4,1159,HSR,Pizza,1200,Yes,Yes
+Local Restaurant 1613,3.3,273,Indiranagar,Pizza,900,Yes,Yes
+Empire Restaurant,3.7,1227,BTM,Chinese,1200,No,Yes
+McDonald's,4.6,2408,Banashankari,Fast Food,1000,Yes,No
+Burger King,4.4,372,JP Nagar,Multi Cuisine,400,No,No
+McDonald's,4.5,707,BTM,Chinese,1400,No,Yes
+Subway,4.6,854,BTM,North Indian,600,Yes,Yes
+Empire Restaurant,3.7,1347,Marathahalli,Pizza,400,Yes,No
+Cafe Coffee Day,4.2,2170,Indiranagar,Cafe,1400,Yes,Yes
+Pizza Hut,4.1,2245,Marathahalli,American,500,No,Yes
+Domino's Pizza,3.4,1242,JP Nagar,Cafe,700,No,No
+KFC,4.0,690,Indiranagar,North Indian,1200,No,Yes
+Subway,3.9,103,MG Road,Fast Food,600,No,No
+Local Restaurant 1625,4.3,2379,Jayanagar,Multi Cuisine,1000,Yes,Yes
+Pizza Hut,4.3,65,HSR,Chinese,800,Yes,Yes
+Local Restaurant 1627,4.9,276,Marathahalli,Biryani,500,Yes,No
+Domino's Pizza,4.6,303,HSR,American,1200,No,No
+Domino's Pizza,3.7,2450,Jayanagar,Chinese,400,Yes,No
+KFC,3.4,2119,JP Nagar,Fast Food,800,Yes,No
+Burger King,3.7,1169,HSR,American,400,No,No
+Truffles,4.7,2483,Koramangala,Biryani,700,Yes,Yes
+Domino's Pizza,3.5,1387,HSR,Chinese,500,Yes,Yes
+Cafe Coffee Day,4.0,2462,JP Nagar,Chinese,1400,Yes,No
+Pizza Hut,3.2,626,BTM,American,600,No,No
+Subway,3.6,1184,HSR,Italian,400,Yes,Yes
+KFC,4.0,1306,Marathahalli,North Indian,600,Yes,Yes
+Pizza Hut,4.7,2272,Koramangala,Pizza,1400,Yes,No
+Subway,4.2,2073,Koramangala,Multi Cuisine,1400,No,Yes
+Subway,4.1,333,Banashankari,Multi Cuisine,400,Yes,Yes
+Cafe Coffee Day,3.7,1149,MG Road,North Indian,700,Yes,Yes
+KFC,4.3,1254,Whitefield,Cafe,1400,No,No
+Cafe Coffee Day,4.1,2310,Banashankari,Chinese,1200,No,Yes
+Subway,4.0,2276,Marathahalli,North Indian,600,Yes,No
+Cafe Coffee Day,3.7,2421,JP Nagar,American,500,Yes,No
+Subway,4.5,477,Jayanagar,South Indian,1200,Yes,Yes
+KFC,4.2,1293,Koramangala,North Indian,800,No,No
+Meghana Foods,3.2,961,Indiranagar,American,1200,No,Yes
+Pizza Hut,3.8,1868,BTM,North Indian,1400,Yes,No
+KFC,3.8,244,MG Road,Italian,400,No,No
+Local Restaurant 1651,3.8,2269,Whitefield,Chinese,700,No,Yes
+Local Restaurant 1652,3.5,2381,Whitefield,Fast Food,500,No,Yes
+Subway,4.7,525,Banashankari,Cafe,1400,Yes,Yes
+Meghana Foods,4.1,1340,JP Nagar,North Indian,700,Yes,No
+Local Restaurant 1655,4.2,759,Marathahalli,Cafe,900,No,Yes
+Pizza Hut,4.5,2031,Koramangala,American,1200,No,No
+Pizza Hut,4.5,1463,JP Nagar,South Indian,1400,Yes,Yes
+McDonald's,4.3,2044,MG Road,Fast Food,1200,No,Yes
+Local Restaurant 1659,3.7,215,Koramangala,Biryani,900,No,No
+Local Restaurant 1660,3.5,217,Whitefield,Italian,500,Yes,Yes
+Subway,4.9,1335,JP Nagar,North Indian,800,No,Yes
+KFC,4.2,2042,Koramangala,North Indian,900,No,Yes
+McDonald's,3.8,902,JP Nagar,Cafe,1400,No,No
+Domino's Pizza,4.7,2231,Whitefield,Biryani,900,No,No
+Local Restaurant 1665,3.8,130,BTM,Italian,600,Yes,Yes
+Domino's Pizza,3.4,960,Indiranagar,American,1400,Yes,Yes
+Local Restaurant 1667,3.4,567,Indiranagar,Multi Cuisine,700,No,Yes
+Empire Restaurant,3.7,382,Indiranagar,Chinese,1200,Yes,Yes
+Local Restaurant 1669,4.4,2031,Banashankari,North Indian,1000,Yes,Yes
+KFC,3.6,2280,Whitefield,Fast Food,500,Yes,No
+Empire Restaurant,4.2,945,Indiranagar,North Indian,1000,Yes,No
+KFC,3.3,2210,Koramangala,Cafe,400,No,No
+Meghana Foods,4.1,1994,Whitefield,Chinese,800,Yes,No
+Local Restaurant 1674,3.7,2189,JP Nagar,Multi Cuisine,1400,Yes,No
+KFC,3.9,134,Whitefield,South Indian,700,Yes,No
+McDonald's,3.9,632,HSR,Italian,1000,Yes,No
+Local Restaurant 1677,3.8,2192,JP Nagar,Pizza,700,Yes,Yes
+Burger King,4.8,1275,Koramangala,Italian,1000,No,No
+Burger King,4.4,910,JP Nagar,American,1000,Yes,No
+Cafe Coffee Day,3.4,153,Koramangala,Biryani,500,Yes,No
+Local Restaurant 1681,4.0,1057,Whitefield,Biryani,500,No,No
+Subway,4.8,1401,Indiranagar,Italian,900,No,Yes
+Local Restaurant 1683,3.3,2232,Banashankari,American,900,No,Yes
+KFC,4.6,437,Marathahalli,Biryani,400,No,No
+Subway,4.4,680,Indiranagar,Chinese,1200,Yes,Yes
+KFC,3.8,1854,Jayanagar,Multi Cuisine,800,Yes,No
+Local Restaurant 1687,4.7,735,Banashankari,Italian,1400,No,Yes
+Domino's Pizza,3.3,65,Indiranagar,South Indian,1000,No,No
+Subway,4.6,1740,Marathahalli,Pizza,1000,No,No
+KFC,4.3,1330,Koramangala,Biryani,500,No,Yes
+Pizza Hut,3.2,543,Banashankari,American,500,Yes,Yes
+Burger King,3.9,2070,Banashankari,Italian,1200,No,No
+Empire Restaurant,3.7,937,Whitefield,South Indian,700,Yes,Yes
+Meghana Foods,4.3,2427,Koramangala,Fast Food,600,Yes,No
+Empire Restaurant,3.8,59,Indiranagar,North Indian,600,Yes,Yes
+Meghana Foods,3.5,141,Jayanagar,Pizza,1400,Yes,Yes
+Pizza Hut,4.1,1325,Jayanagar,Chinese,400,Yes,No
+Truffles,3.7,538,Whitefield,Italian,500,No,Yes
+Burger King,3.9,1223,JP Nagar,Cafe,400,No,No
+KFC,3.8,1549,MG Road,South Indian,500,Yes,No
+Truffles,4.1,1055,Whitefield,Chinese,500,Yes,No
+Truffles,3.9,1931,Whitefield,Biryani,400,No,No
+Local Restaurant 1703,4.2,592,BTM,Italian,400,Yes,Yes
+KFC,4.1,1437,Marathahalli,Chinese,1000,Yes,Yes
+Pizza Hut,4.6,2036,Jayanagar,Fast Food,600,No,No
+Subway,3.3,1289,BTM,Multi Cuisine,600,Yes,Yes
+KFC,4.5,660,JP Nagar,Chinese,1000,Yes,No
+Cafe Coffee Day,4.7,933,BTM,Pizza,900,No,Yes
+Truffles,3.7,1589,Marathahalli,Pizza,700,Yes,Yes
+Subway,4.7,1571,BTM,Multi Cuisine,700,Yes,Yes
+Truffles,3.5,840,Indiranagar,Italian,1200,No,No
+Meghana Foods,3.6,2355,JP Nagar,Fast Food,400,Yes,No
+Empire Restaurant,3.3,1363,JP Nagar,Biryani,1200,No,No
+Subway,3.9,1042,BTM,Fast Food,500,No,No
+Empire Restaurant,3.7,815,Marathahalli,Fast Food,1200,No,No
+Burger King,3.3,2438,Jayanagar,South Indian,700,Yes,Yes
+Domino's Pizza,3.5,289,Indiranagar,Pizza,1200,Yes,Yes
+Subway,4.6,572,BTM,Multi Cuisine,600,No,No
+Cafe Coffee Day,3.5,1673,Indiranagar,Pizza,600,Yes,Yes
+Empire Restaurant,4.0,239,Whitefield,Fast Food,600,No,No
+Cafe Coffee Day,3.9,1568,BTM,Biryani,900,Yes,No
+Meghana Foods,3.5,274,Marathahalli,Italian,1000,Yes,Yes
+KFC,4.4,1718,Whitefield,Cafe,500,Yes,No
+Local Restaurant 1724,4.2,801,BTM,Biryani,400,No,No
+Local Restaurant 1725,3.8,2109,BTM,American,1400,Yes,Yes
+Cafe Coffee Day,3.5,646,Koramangala,Pizza,500,Yes,Yes
+Subway,4.6,919,Jayanagar,North Indian,1400,No,No
+Subway,4.4,2241,Jayanagar,North Indian,700,Yes,Yes
+Local Restaurant 1729,3.6,1031,Banashankari,Biryani,1400,No,No
+Meghana Foods,3.8,1452,HSR,South Indian,1200,No,No
+Cafe Coffee Day,3.3,1193,Marathahalli,North Indian,700,Yes,No
+KFC,3.6,885,Whitefield,South Indian,1400,No,Yes
+Meghana Foods,4.4,1276,Whitefield,Chinese,1200,No,Yes
+McDonald's,3.7,643,HSR,Cafe,1200,Yes,No
+Subway,3.9,2192,BTM,American,800,No,No
+Empire Restaurant,4.4,1565,Whitefield,Italian,800,Yes,No
+Burger King,4.5,1674,Indiranagar,American,1200,Yes,Yes
+Subway,3.7,1551,Koramangala,Fast Food,1200,Yes,No
+Domino's Pizza,4.5,329,HSR,Biryani,800,Yes,No
+Local Restaurant 1740,4.8,1521,Koramangala,American,900,Yes,Yes
+Burger King,3.6,1770,Marathahalli,Pizza,1200,Yes,No
+Cafe Coffee Day,4.2,1693,Jayanagar,Multi Cuisine,600,No,Yes
+McDonald's,3.5,1353,BTM,Italian,700,No,Yes
+Cafe Coffee Day,4.7,762,HSR,Fast Food,600,Yes,No
+Pizza Hut,3.5,1562,JP Nagar,North Indian,1400,Yes,No
+Subway,3.8,1928,BTM,North Indian,500,No,Yes
+Local Restaurant 1747,3.9,2399,BTM,Multi Cuisine,1000,Yes,No
+KFC,4.0,1217,MG Road,Biryani,1000,No,No
+Subway,3.8,1017,Jayanagar,American,400,No,Yes
+Meghana Foods,4.0,1807,Jayanagar,Multi Cuisine,500,No,Yes
+Cafe Coffee Day,3.7,2026,Jayanagar,Italian,600,Yes,No
+KFC,4.6,567,Jayanagar,American,1200,No,Yes
+Empire Restaurant,4.4,1173,MG Road,American,900,No,Yes
+Cafe Coffee Day,3.4,365,Marathahalli,American,1000,No,Yes
+Truffles,4.5,1801,MG Road,Fast Food,700,No,Yes
+Meghana Foods,3.5,1867,BTM,Multi Cuisine,1200,Yes,No
+Local Restaurant 1757,3.4,585,MG Road,Biryani,1000,Yes,No
+Local Restaurant 1758,4.3,158,HSR,Chinese,900,Yes,Yes
+Cafe Coffee Day,4.7,2405,HSR,South Indian,1000,No,Yes
+Subway,4.4,1377,BTM,North Indian,500,Yes,Yes
+Burger King,4.3,2213,Indiranagar,Pizza,1000,No,No
+Pizza Hut,4.2,1941,Koramangala,Fast Food,400,No,No
+Domino's Pizza,4.3,2115,MG Road,American,800,No,Yes
+McDonald's,3.9,2398,MG Road,American,900,No,No
+Subway,4.6,402,JP Nagar,Pizza,700,No,No
+Subway,4.3,1617,Whitefield,Chinese,500,No,Yes
+Local Restaurant 1767,3.8,242,Banashankari,Fast Food,400,Yes,No
+Domino's Pizza,4.6,851,MG Road,Chinese,500,No,No
+McDonald's,4.5,122,Indiranagar,Multi Cuisine,600,No,No
+Meghana Foods,4.1,674,Whitefield,Cafe,400,Yes,Yes
+Empire Restaurant,4.0,2433,Banashankari,Italian,1400,No,No
+Subway,3.3,1369,Indiranagar,Chinese,900,No,Yes
+KFC,4.6,1682,Indiranagar,Cafe,400,No,No
+Pizza Hut,3.7,463,HSR,North Indian,1000,Yes,No
+Empire Restaurant,4.0,1028,Marathahalli,Chinese,1000,No,No
+Meghana Foods,4.6,1054,Whitefield,Cafe,1400,No,No
+Local Restaurant 1777,3.7,423,Whitefield,Cafe,400,No,No
+Local Restaurant 1778,3.8,1864,BTM,Fast Food,1400,No,No
+McDonald's,3.5,81,BTM,Biryani,700,Yes,No
+Meghana Foods,3.2,432,Jayanagar,Multi Cuisine,800,Yes,Yes
+KFC,3.8,1193,MG Road,Italian,1000,No,Yes
+Local Restaurant 1782,3.9,1814,Banashankari,Italian,700,No,Yes
+Cafe Coffee Day,4.0,196,Whitefield,Cafe,900,Yes,No
+Meghana Foods,4.1,1685,Banashankari,Italian,400,Yes,No
+Local Restaurant 1785,4.2,1325,JP Nagar,Pizza,800,Yes,Yes
+Local Restaurant 1786,4.5,939,Whitefield,Pizza,400,No,No
+Pizza Hut,4.0,690,JP Nagar,Multi Cuisine,1000,Yes,No
+Pizza Hut,3.8,709,Marathahalli,Biryani,400,No,Yes
+Subway,4.1,369,Indiranagar,North Indian,800,Yes,Yes
+Meghana Foods,3.7,258,HSR,American,400,No,No
+McDonald's,3.8,929,Indiranagar,Multi Cuisine,700,No,No
+Local Restaurant 1792,3.3,273,Indiranagar,Pizza,600,No,Yes
+Burger King,4.7,849,Indiranagar,Chinese,500,No,Yes
+Cafe Coffee Day,3.4,1474,Jayanagar,South Indian,1400,No,Yes
+Cafe Coffee Day,4.3,291,JP Nagar,Pizza,600,No,Yes
+Meghana Foods,4.8,2406,Whitefield,Multi Cuisine,1000,Yes,Yes
+Meghana Foods,4.2,2284,Whitefield,American,500,Yes,No
+McDonald's,3.7,1191,Whitefield,Multi Cuisine,700,Yes,Yes
+Pizza Hut,3.3,1976,HSR,North Indian,900,Yes,Yes
+Burger King,3.8,993,Marathahalli,Chinese,1000,No,Yes
+Cafe Coffee Day,4.4,975,Koramangala,South Indian,1400,Yes,Yes
+Local Restaurant 1802,3.4,746,Marathahalli,Pizza,900,Yes,No
+Pizza Hut,3.4,2060,HSR,Biryani,700,Yes,Yes
+Burger King,3.3,618,Jayanagar,Fast Food,600,No,No
+McDonald's,3.2,1515,Jayanagar,Chinese,800,No,Yes
+Cafe Coffee Day,4.8,1760,Whitefield,Italian,800,Yes,No
+Pizza Hut,4.5,1215,Koramangala,South Indian,1200,Yes,No
+Local Restaurant 1808,3.6,1698,Marathahalli,Fast Food,400,Yes,Yes
+Empire Restaurant,3.8,989,Indiranagar,Multi Cuisine,600,Yes,Yes
+Domino's Pizza,4.3,1633,Indiranagar,Chinese,700,Yes,No
+Truffles,3.3,830,JP Nagar,American,900,Yes,Yes
+KFC,4.7,2163,JP Nagar,Fast Food,700,Yes,No
+Pizza Hut,4.6,389,Banashankari,Italian,700,Yes,No
+Local Restaurant 1814,4.7,1139,Koramangala,Chinese,600,Yes,No
+Meghana Foods,4.6,2153,Whitefield,Fast Food,500,No,No
+KFC,4.7,1941,Jayanagar,Biryani,400,Yes,No
+Domino's Pizza,4.5,2224,Indiranagar,Cafe,1000,No,No
+Meghana Foods,4.2,2084,BTM,Chinese,500,No,Yes
+Subway,4.8,1010,Whitefield,Pizza,1000,No,Yes
+Local Restaurant 1820,3.4,1441,Banashankari,Pizza,1400,Yes,Yes
+Local Restaurant 1821,3.9,2231,Indiranagar,American,900,Yes,No
+Meghana Foods,3.5,2264,Marathahalli,Cafe,700,No,Yes
+KFC,4.0,1742,JP Nagar,Italian,1200,No,No
+KFC,4.1,2255,JP Nagar,Pizza,600,Yes,No
+Domino's Pizza,3.8,1415,Indiranagar,North Indian,900,Yes,No
+Local Restaurant 1826,3.8,2329,JP Nagar,Multi Cuisine,1000,No,Yes
+Cafe Coffee Day,3.8,121,BTM,American,600,No,No
+KFC,4.2,2346,Jayanagar,Fast Food,1400,Yes,Yes
+McDonald's,4.0,523,BTM,South Indian,400,No,Yes
+Empire Restaurant,3.2,1963,Marathahalli,Cafe,500,No,No
+Local Restaurant 1831,4.9,391,Koramangala,Multi Cuisine,800,No,Yes
+Burger King,3.9,1022,HSR,Fast Food,500,No,Yes
+Subway,4.6,1521,BTM,Chinese,400,Yes,Yes
+Cafe Coffee Day,4.7,2437,Koramangala,Pizza,1200,No,No
+KFC,3.8,1335,JP Nagar,Pizza,700,Yes,Yes
+Truffles,3.4,471,Indiranagar,North Indian,400,Yes,No
+Truffles,4.9,2001,Marathahalli,Pizza,400,Yes,Yes
+Truffles,4.5,2385,Marathahalli,Fast Food,500,No,Yes
+Domino's Pizza,4.0,2189,BTM,North Indian,1200,No,Yes
+Burger King,4.5,1431,Indiranagar,South Indian,400,No,No
+Burger King,3.8,1902,Indiranagar,North Indian,1000,Yes,No
+Pizza Hut,3.7,181,Marathahalli,Biryani,800,Yes,Yes
+Local Restaurant 1843,4.3,1717,Indiranagar,Fast Food,600,Yes,Yes
+Cafe Coffee Day,4.3,1064,MG Road,American,1400,No,Yes
+Subway,3.9,170,Jayanagar,Fast Food,800,No,No
+Local Restaurant 1846,4.4,660,Whitefield,Chinese,700,Yes,No
+Cafe Coffee Day,3.9,1051,Koramangala,Italian,1000,Yes,Yes
+Subway,3.8,1921,Whitefield,South Indian,900,Yes,Yes
+Truffles,4.8,1906,Koramangala,Cafe,1000,No,No
+Local Restaurant 1850,4.4,895,Indiranagar,Fast Food,1400,Yes,Yes
+Cafe Coffee Day,4.2,2197,Whitefield,North Indian,700,Yes,Yes
+Domino's Pizza,4.2,1267,Jayanagar,Biryani,700,Yes,No
+Truffles,3.7,1474,Banashankari,Italian,1200,No,No
+Local Restaurant 1854,4.3,1418,JP Nagar,Pizza,1000,Yes,Yes
+Meghana Foods,4.2,1725,HSR,Biryani,700,No,Yes
+KFC,3.6,802,HSR,North Indian,900,Yes,No
+Local Restaurant 1857,4.4,1280,Koramangala,Multi Cuisine,700,Yes,No
+Meghana Foods,4.6,1872,Indiranagar,Italian,800,No,No
+Empire Restaurant,4.5,1065,Marathahalli,Multi Cuisine,500,Yes,Yes
+Pizza Hut,3.3,1081,Whitefield,North Indian,900,Yes,No
+McDonald's,3.6,202,JP Nagar,Cafe,1000,Yes,No
+KFC,4.0,710,JP Nagar,Cafe,500,Yes,Yes
+Meghana Foods,4.8,2446,BTM,Fast Food,1200,No,No
+Local Restaurant 1864,4.8,1367,Marathahalli,Pizza,700,No,Yes
+Meghana Foods,4.8,1912,MG Road,Fast Food,1400,No,No
+Burger King,4.5,693,BTM,Biryani,600,Yes,Yes
+Truffles,3.4,959,MG Road,Italian,500,No,No
+Truffles,3.4,479,Whitefield,North Indian,600,Yes,No
+Local Restaurant 1869,4.6,1355,BTM,North Indian,1000,No,No
+Local Restaurant 1870,4.5,1925,Banashankari,American,1000,Yes,No
+Local Restaurant 1871,4.6,826,Banashankari,Cafe,800,Yes,No
+McDonald's,4.3,1268,Jayanagar,Italian,800,Yes,No
+Empire Restaurant,4.8,486,Marathahalli,Cafe,900,No,Yes
+Truffles,4.8,298,JP Nagar,Pizza,1000,Yes,Yes
+Burger King,3.7,753,Koramangala,Italian,900,Yes,Yes
+Truffles,3.3,1750,BTM,Cafe,1200,Yes,Yes
+Empire Restaurant,4.7,289,Banashankari,Biryani,1200,No,Yes
+KFC,3.6,212,Whitefield,Cafe,900,Yes,Yes
+McDonald's,3.7,388,Whitefield,Cafe,500,No,Yes
+Local Restaurant 1880,4.5,262,HSR,Fast Food,900,Yes,No
+Truffles,4.5,514,Indiranagar,Cafe,700,Yes,No
+Burger King,4.3,1488,Jayanagar,American,1000,Yes,Yes
+Pizza Hut,4.7,1579,Indiranagar,American,900,No,No
+KFC,3.8,1103,JP Nagar,Fast Food,700,Yes,No
+Cafe Coffee Day,3.5,2416,Banashankari,South Indian,800,Yes,No
+Local Restaurant 1886,4.0,1772,Koramangala,American,1200,No,Yes
+McDonald's,4.7,244,Koramangala,Pizza,500,No,No
+KFC,4.1,954,Marathahalli,Cafe,1400,Yes,Yes
+Meghana Foods,3.6,2413,Marathahalli,Italian,900,Yes,No
+Pizza Hut,4.6,1511,Whitefield,Biryani,900,No,Yes
+Truffles,3.9,1276,Koramangala,Cafe,400,No,Yes
+Meghana Foods,3.9,2075,HSR,American,900,No,No
+McDonald's,3.4,1449,BTM,Biryani,600,No,No
+Burger King,4.0,2074,Whitefield,Biryani,500,Yes,No
+Domino's Pizza,4.0,1732,MG Road,American,500,No,Yes
+Local Restaurant 1896,3.8,1497,Banashankari,Chinese,500,Yes,Yes
+Empire Restaurant,3.4,1966,Marathahalli,Italian,1400,Yes,Yes
+Cafe Coffee Day,4.8,1562,BTM,Multi Cuisine,1200,Yes,Yes
+Truffles,3.6,1729,Indiranagar,Pizza,800,Yes,No
+Empire Restaurant,4.1,2431,MG Road,Italian,700,No,No
+Burger King,4.1,1913,Marathahalli,American,900,No,No
+McDonald's,4.6,1840,BTM,South Indian,1000,No,Yes
+McDonald's,3.3,2359,Koramangala,American,1000,Yes,No
+Local Restaurant 1904,4.1,2430,Jayanagar,Multi Cuisine,600,No,Yes
+Local Restaurant 1905,3.4,1480,Whitefield,American,900,Yes,Yes
+Domino's Pizza,4.5,649,MG Road,Multi Cuisine,1400,No,Yes
+Local Restaurant 1907,3.4,1490,Koramangala,Pizza,500,No,Yes
+Meghana Foods,3.3,1223,Whitefield,American,600,Yes,Yes
+Subway,3.7,2347,Indiranagar,Chinese,1200,Yes,No
+Meghana Foods,3.7,395,MG Road,Fast Food,600,No,Yes
+Pizza Hut,4.1,1423,Marathahalli,American,700,No,No
+McDonald's,3.3,1428,JP Nagar,Multi Cuisine,1400,Yes,No
+Empire Restaurant,4.4,514,MG Road,Multi Cuisine,700,Yes,No
+Pizza Hut,4.1,496,Whitefield,American,1000,Yes,No
+Burger King,4.0,2310,Indiranagar,Italian,1400,No,No
+Truffles,4.8,2139,Koramangala,American,1400,No,No
+KFC,3.4,254,JP Nagar,Italian,700,Yes,Yes
+Local Restaurant 1918,3.4,1731,Banashankari,Fast Food,600,Yes,No
+Pizza Hut,3.4,2401,Jayanagar,Multi Cuisine,400,No,Yes
+Empire Restaurant,4.6,256,Marathahalli,Italian,500,No,Yes
+Cafe Coffee Day,4.0,1637,MG Road,Italian,1200,Yes,No
+Pizza Hut,4.6,588,MG Road,North Indian,900,Yes,No
+Subway,4.2,2057,Marathahalli,South Indian,500,No,Yes
+Pizza Hut,3.6,1608,Indiranagar,North Indian,1000,Yes,Yes
+KFC,4.2,387,Whitefield,American,600,No,No
+Local Restaurant 1926,3.8,1918,HSR,South Indian,500,No,No
+Domino's Pizza,4.3,1506,Marathahalli,Multi Cuisine,900,No,No
+McDonald's,4.8,1912,JP Nagar,Fast Food,1400,Yes,No
+Empire Restaurant,4.5,2016,JP Nagar,Italian,1400,Yes,No
+Meghana Foods,4.7,356,Indiranagar,Chinese,700,Yes,No
+Burger King,4.1,1350,Indiranagar,Biryani,600,Yes,Yes
+Empire Restaurant,3.9,997,MG Road,Pizza,1400,No,Yes
+Meghana Foods,4.4,446,JP Nagar,Italian,500,No,No
+KFC,3.9,2092,HSR,South Indian,400,No,No
+Cafe Coffee Day,3.4,491,Whitefield,Chinese,400,Yes,No
+Cafe Coffee Day,4.1,1415,Marathahalli,Italian,1400,Yes,No
+Local Restaurant 1937,4.1,1903,MG Road,Biryani,900,Yes,No
+Local Restaurant 1938,3.3,1722,MG Road,American,1400,No,Yes
+Empire Restaurant,4.4,176,Whitefield,Italian,1000,Yes,No
+Burger King,4.5,1136,JP Nagar,Chinese,600,Yes,Yes
+Pizza Hut,3.6,160,Banashankari,Fast Food,600,Yes,No
+Pizza Hut,3.9,326,MG Road,Cafe,600,Yes,No
+Burger King,4.9,1499,BTM,Fast Food,500,Yes,No
+Local Restaurant 1944,4.3,2167,Koramangala,North Indian,700,No,Yes
+Truffles,4.9,2277,Koramangala,Multi Cuisine,800,No,No
+Domino's Pizza,4.0,615,Marathahalli,Pizza,1200,Yes,No
+Domino's Pizza,4.1,2458,Whitefield,Cafe,1400,No,Yes
+Burger King,4.0,509,Koramangala,American,600,No,Yes
+Subway,3.6,1563,Marathahalli,Pizza,700,Yes,No
+Empire Restaurant,4.8,1778,MG Road,Chinese,1200,Yes,Yes
+Subway,3.8,1424,Marathahalli,Cafe,1400,No,No
+Empire Restaurant,4.6,2056,Whitefield,Biryani,700,Yes,Yes
+KFC,4.5,825,Koramangala,South Indian,400,No,Yes
+Meghana Foods,4.7,1158,Koramangala,Pizza,700,Yes,No
+Empire Restaurant,4.8,1155,BTM,Pizza,1000,No,Yes
+KFC,4.0,1076,Jayanagar,Fast Food,900,Yes,Yes
+Meghana Foods,3.3,2066,Koramangala,Biryani,800,No,No
+McDonald's,3.3,2452,Koramangala,Cafe,500,No,No
+Burger King,4.1,539,HSR,Biryani,1400,No,Yes
+Local Restaurant 1960,4.5,948,BTM,North Indian,700,Yes,Yes
+Empire Restaurant,4.4,982,Marathahalli,North Indian,800,No,No
+Local Restaurant 1962,4.9,2159,Jayanagar,American,600,Yes,No
+KFC,4.4,404,HSR,Pizza,600,No,Yes
+KFC,3.4,1661,HSR,Biryani,1400,Yes,No
+McDonald's,3.8,831,Banashankari,North Indian,500,No,No
+Empire Restaurant,4.4,1184,Whitefield,Fast Food,1200,No,No
+Pizza Hut,3.9,85,HSR,South Indian,800,No,Yes
+McDonald's,4.0,248,JP Nagar,Italian,1000,Yes,No
+Meghana Foods,3.6,709,BTM,Cafe,500,No,Yes
+Local Restaurant 1970,4.0,344,BTM,Multi Cuisine,1000,Yes,No
+Subway,3.8,1891,MG Road,Chinese,800,Yes,No
+Truffles,4.7,1764,MG Road,Chinese,600,Yes,No
+Cafe Coffee Day,3.3,503,Jayanagar,Multi Cuisine,1200,No,Yes
+Empire Restaurant,3.5,995,Koramangala,Pizza,900,No,Yes
+KFC,3.8,1761,Indiranagar,South Indian,900,No,Yes
+McDonald's,3.9,323,HSR,North Indian,1200,Yes,Yes
+KFC,3.3,1066,BTM,Biryani,1400,Yes,Yes
+Subway,3.3,1611,JP Nagar,Pizza,500,No,No
+Truffles,4.0,367,Banashankari,Multi Cuisine,500,No,Yes
+KFC,3.9,84,Whitefield,American,1000,Yes,No
+Cafe Coffee Day,3.7,239,Jayanagar,Cafe,900,No,Yes
+Empire Restaurant,4.5,2451,Jayanagar,Chinese,1400,No,Yes
+Subway,3.4,2283,Whitefield,Pizza,700,No,No
+Pizza Hut,3.7,1055,JP Nagar,South Indian,1200,Yes,Yes
+Domino's Pizza,3.5,1782,Banashankari,Biryani,1000,No,Yes
+KFC,4.2,317,Whitefield,North Indian,900,Yes,No
+Burger King,4.3,2457,Whitefield,Chinese,500,Yes,No
+McDonald's,3.3,1401,MG Road,Multi Cuisine,800,Yes,Yes
+Local Restaurant 1989,3.2,601,Whitefield,Pizza,900,Yes,Yes
+Truffles,4.0,1817,HSR,Biryani,1400,Yes,No
+Burger King,3.4,361,BTM,Italian,500,Yes,No
+Empire Restaurant,3.6,266,JP Nagar,Cafe,600,No,Yes
+KFC,4.2,509,Whitefield,South Indian,1000,No,Yes
+Local Restaurant 1994,4.5,99,HSR,Multi Cuisine,1200,Yes,No
+Cafe Coffee Day,4.2,2044,BTM,Multi Cuisine,1200,Yes,No
+Local Restaurant 1996,4.3,1543,JP Nagar,American,1200,Yes,Yes
+Burger King,4.9,556,Marathahalli,Biryani,600,No,Yes
+Cafe Coffee Day,3.7,2470,Jayanagar,Italian,400,No,No
+Empire Restaurant,4.7,2163,MG Road,Biryani,1200,No,No
